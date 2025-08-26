@@ -13,14 +13,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hami-parsa-146ba437a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Parsa.Developer001@gmail.com) 
 
   <div>
     <a href="https://t.me/HamiParsa">
       <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    <a href="https://t.me/HamiParsa">
-      <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <a href="https://www.linkedin.com/in/hami-parsa-146ba437a/">
+      <img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://github.com/HamiParsa">
+      <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
   
