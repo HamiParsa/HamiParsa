@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./logo.png" width="400px" />
+  <img src="./baner.jpg" />
+</div>
+<div align="center">
    <img src="./bio.gif" width="350px" />
 </div>
 <div>
