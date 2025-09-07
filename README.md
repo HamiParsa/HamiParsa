@@ -2,7 +2,7 @@
   <img src="./baner.jpg" />
 </div>
 <div align="center">
-   <img src="./spongebob.gif" width="350px" />
+   <img src="./programming.gif" width="350px" />
 </div>
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nata+Sans&pause=1000&color=F7F7F7&width=435&lines=Hello%E2%9C%8C%EF%B8%8F++I'm+Hami+;I+Love+Programming+%E2%9D%A4%EF%B8%8F;Front-End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"       alt="Typing SVG" /></a>
