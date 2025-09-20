@@ -32,7 +32,7 @@
     <a href="https://github.com/HamiParsa">
       <img src ="https://camo.githubusercontent.com/15d3832090f922c5d29dff7e61b9782447c5089fc631bbbfdd5bef7f50e4da48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f6c6f676f3d676974687562266c6f676f436f6c6f723d666666">
     </a>
-    <a href="">
+    <a href="mailto:parsa.developer001@gmail.com">
       <img src ="https://camo.githubusercontent.com/55240e2b11b0ba3cf3b950fcfc3fe61fde7e38490c1a2a682c6fcda60284fcf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d666666" />
     </a>
   </div>
