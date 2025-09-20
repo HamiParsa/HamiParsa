@@ -10,17 +10,17 @@
 <div>
   
 # 💻 My Expertise:
-![HTML5](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white
-) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
-) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
-) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white
-) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black
-) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white
-) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white
-) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
-) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
-) ![Git](https://camo.githubusercontent.com/b6845940e8d406a25c543950d7e8847944db00d52be163cb4bd55a9e443cccce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666
-)
+![HTML5](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Git](https://camo.githubusercontent.com/b6845940e8d406a25c543950d7e8847944db00d52be163cb4bd55a9e443cccce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666)
 
 
 ## 🌐 Socials:
