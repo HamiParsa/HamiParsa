@@ -9,7 +9,8 @@
 
 <div>
   
-# 💻 My Expertise:
+## 💻⚡My Expertise:
+## Front-End
 ![HTML5](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -18,11 +19,21 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+
+
+## Database
+![MongoDb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
+## Other
 ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Git](https://camo.githubusercontent.com/b6845940e8d406a25c543950d7e8847944db00d52be163cb4bd55a9e443cccce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-
+## Devtools 
+![git](https://camo.githubusercontent.com/b6845940e8d406a25c543950d7e8847944db00d52be163cb4bd55a9e443cccce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666)
+![github](https://camo.githubusercontent.com/15d3832090f922c5d29dff7e61b9782447c5089fc631bbbfdd5bef7f50e4da48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f6c6f676f3d676974687562266c6f676f436f6c6f723d666666)
+![vscode](https://camo.githubusercontent.com/9539eab4b231420c096386efd14f1827f56631062004f5625dbc2abf560904f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f6c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d666666)
 ## 🌐 Socials:
 
   <div>
