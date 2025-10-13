@@ -4,15 +4,14 @@
 
 <div>
     <img src="https://yourimageshare.com/ib/WZACimTHCb.png"/>
-    <img src="https://yourimageshare.com/ib/A986jRg93w.gif" height="350px" width="1100px"  />
 </div>
 
 <br/>
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/My-Profile/)
 
-## 💻 My Expertise
-
+💻 My Expertise
+<img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px" />
 ### Front-End
 <div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
   <img src="https://skillicons.dev/icons?i=html" width="40" style="transition:0.3s" />
@@ -47,7 +46,9 @@
 
 <br/>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
+<img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px" />
+
 <div align="center">
   <br/>
   <br/>
@@ -60,7 +61,8 @@
 
 <br/>
 
-## 🌐 Connect with me
+🌐 Connect with me
+<img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px" />
 <div align="center" style="display:flex; gap:20px; justify-content:center;">
   <a href="https://www.linkedin.com/in/hami-parsa-146ba437a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
