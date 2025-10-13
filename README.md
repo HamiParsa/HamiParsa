@@ -35,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=python" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=c" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=cpp" width="40" style="transition:0.3s" />
+<img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" width="40" />
 </div>
 
 ### DevTools
