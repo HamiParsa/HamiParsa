@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=react" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=next" width="40" style="transition:0.3s" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=redux" width="40" style="transition:0.3s" />
 </div>
