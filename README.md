@@ -1,6 +1,5 @@
-<div>
-  
-</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=31&pause=1000&color=7B7B7B&width=435&lines=Hello+%2C+I'm+Hami+Parsa;I'm+Front+End+Developer;React+%2C+Next+%2C+TypeScript" alt="Typing SVG" /></a></div>
 <br/>
 
 <div>
