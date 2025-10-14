@@ -12,7 +12,7 @@
 
 ### 💻 My Expertise :
 <img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="30px" />
-Front-End
+### Front-End
 <div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
   <img src="https://skillicons.dev/icons?i=html" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=css" width="40" style="transition:0.3s" />
