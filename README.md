@@ -14,6 +14,7 @@
 <img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="30px" />
 
 ### Front-End
+
 <div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
   <img src="https://skillicons.dev/icons?i=html" width="40" style="transition:0.3s" />
   <img src="https://skillicons.dev/icons?i=css" width="40" style="transition:0.3s" />
@@ -66,13 +67,13 @@
 ### 🌐 Connect with me :
 <img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="30px" />
 <div align="center" style="display:flex; gap:20px; justify-content:center;">
-  <a href="https://www.linkedin.com/in/hami-parsa-146ba437a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/HamiParsa" target="_blank" class="no-underline text-black">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/HamiParsa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:parsa.developer001@gmail.com" target="_blank" class="no-underline text-black">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:parsa.developer001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://t.me/HamiParsa" target="_blank" class="no-underline text-black">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
 </div>
