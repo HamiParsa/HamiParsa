@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=31&pause=1000&color=7B7B7B&width=435&lines=Hello+%2C+I'm+Hami+Parsa;I'm+Front+End+Developer;React+%2C+Next+%2C+TypeScript" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Science+Gothic&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello+%2C+I'm+Hami+Parsa;I+Love+Progamming;I'm+Front+End+Developer" alt="Typing SVG" /></a></div>
 <br/>
 
 <div>
@@ -8,72 +8,39 @@
 
 <br/>
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/My-Profile/)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-FF5733?style=for-the-badge&logo=firefox&logoColor=black)](https://hamiparsa.github.io/My-Profile/)
 
-### 💻 My Expertise :
-<img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="30px" />
+# 💫 About Me:
+- 💻 Currently mastering **Next.js, TypeScript, Redux, and SPA architectures**  <br>- 🕹️ Building a **single-page gaming platform** with a **single-component architecture**  <br>- 🎯 Goal: Become a professional front-end developer, create strong resume projects, and start freelancing  <br>- 🚀 Always learning and applying new technologies to **real-world projects**  <br>- 🎨 Passionate about **UI/UX and gaming-inspired interfaces**  <br>- 🧩 Fun fact: I love **gaming**, and it inspires my projects and UI designs  <br>- 🌱 I’m currently exploring **advanced animations, 3D web interactions, and game UI mechanics**  <br>- 🏆 Dream: Contribute to open-source projects and create **amazing front-end experiences**
 
-### Front-End
 
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
-  <img src="https://skillicons.dev/icons?i=html" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=react" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=next" width="40" style="transition:0.3s" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=redux" width="40" style="transition:0.3s" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HamiParsa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parsa.developer001@gmail.com) 
 
-### Database
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" style="transition:0.3s" />
-</div>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HamiParsa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HamiParsa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Other
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
-  <img src="https://skillicons.dev/icons?i=python" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=c" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" style="transition:0.3s" />
-<img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" width="40" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HamiParsa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### DevTools
-<div  style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
-  <img src="https://skillicons.dev/icons?i=git" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" style="transition:0.3s" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" style="transition:0.3s" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HamiParsa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=HamiParsa&icon=4&color=1)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats :
-<img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="30px" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&count_private=true" />
-  <br/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamiParsa&layout=compact&theme=dark" />
-</div>
 
-<br/>
 
-### 🌐 Connect with me :
-<img src = "https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="30px" />
-<div align="center" style="display:flex; gap:20px; justify-content:center;">
-  <a href="https://github.com/HamiParsa" target="_blank" class="no-underline text-black">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:parsa.developer001@gmail.com" target="_blank" class="no-underline text-black">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/HamiParsa" target="_blank" class="no-underline text-black">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  </a>
-</div>
+## 👾 Pacman Maze 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+</picture>
