@@ -33,12 +33,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=HamiParsa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-    
-![](https://github-contributor-stats.vercel.app/api?username=HamiParsa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HamiParsa&icon=4&color=1)](https://visitcount.itsvg.in)
 
