@@ -3,7 +3,7 @@
 <br/>
 
 <div>
-    <img src="https://yourimageshare.com/ib/WZACimTHCb.png"/>
+    <img src="https://yourimageshare.com/ib/ogTW9M39YA.png"/>
 </div>
 
 <br/>
@@ -28,7 +28,10 @@
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=HamiParsa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
