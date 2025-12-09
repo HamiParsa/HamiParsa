@@ -19,6 +19,20 @@
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+## 🚀 My Top Projects (Real Tech Stack + Live Preview)
+
+| Project | Description | Tech Stack | Status | Link | Preview |
+|--------|-------------|------------|--------|------|---------|
+| 🎮 My-Messenger | Real-world messaging app showing frontend skills & real-time state management | React, TypeScript, Firebase | ✅ Completed | [Repo](https://github.com/HamiParsa/My-Messenger) | [Live](https://hamiparsa.github.io/My-Messenger/) |
+| 🚗 Tesla | Tesla app clone demonstrating interactive UI & React skills | React, TypeScript, CSS | 🔥 Top Project | [Repo](https://github.com/HamiParsa/Tesla) | [Live](https://hamiparsa.github.io/Tesla/) |
+| 🌐 HamiParsa | Personal portfolio project showcasing skills, UI/UX & animations | Next.js, TypeScript, Tailwind CSS, Framer Motion | ✅ Completed | [Repo](https://github.com/HamiParsa/Profile-Bio) | [Live](https://hamiparsa.github.io/Profile-Bio/) |
+| 🎭 Art-The-Clown | Game/graphic-themed project demonstrating creative UI & animations | React, TypeScript, CSS | 🔧 Ongoing | [Repo](https://github.com/HamiParsa/Art-The-Clown) | [Live](https://hamiparsa.github.io/Art-The-Clown/) |
+| 🕹️ Gta-SanAndreas | Game-inspired project/UI demo highlighting interactive design | React, TypeScript, CSS | 🔥 Top Project | [Repo](https://github.com/HamiParsa/Gta-SanAndreas) | [Live](https://hamiparsa.github.io/Gta-SanAndreas/) |
+| 🎮 Rockstar-Games | Gaming-themed project showcasing UI & frontend skills with creativity | React, TypeScript, CSS | 🔧 Ongoing | [Repo](https://github.com/HamiParsa/Rockstar-Games) | [Live](https://hamiparsa.github.io/Rockstar-Games/) |
+
+
+
 # 📊 GitHub Stats:
 <div align="center">
     
