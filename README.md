@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-FF5733?style=for-the-badge&logo=firefox&logoColor=black)](https://hamiparsa.github.io/My-Profile/)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-FF5733?style=for-the-badge&logo=firefox&logoColor=black)](https://hamiparsa.github.io/Profile-Bio/)
 
 # 💫 About Me:
 - 💻 Currently mastering **Next.js, TypeScript, Redux, and SPA architectures**  <br>- 🕹️ Building a **single-page gaming platform** with a **single-component architecture**  <br>- 🎯 Goal: Become a professional front-end developer, create strong resume projects, and start freelancing  <br>- 🚀 Always learning and applying new technologies to **real-world projects**  <br>- 🎨 Passionate about **UI/UX and gaming-inspired interfaces**  <br>- 🧩 Fun fact: I love **gaming**, and it inspires my projects and UI designs  <br>- 🌱 I’m currently exploring **advanced animations, 3D web interactions, and game UI mechanics**  <br>- 🏆 Dream: Contribute to open-source projects and create **amazing front-end experiences**
