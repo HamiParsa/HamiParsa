@@ -1,4 +1,3 @@
-...
 <div align="center">
     <img src="https://yourimageshare.com/ib/yNYitiaSzr.png"/>
 </div>
