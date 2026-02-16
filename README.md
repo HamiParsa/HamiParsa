@@ -9,7 +9,9 @@
 
 
 # 💫 About Me:
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-FF0B55?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
+[![Visit Profile Bio](https://img.shields.io/badge/Visit%20Profile%20Bio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
+[![Visit Website Project's](https://img.shields.io/badge/Visit%20Website%20Project's-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
+
 
 <div>
 
