@@ -198,7 +198,9 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 | 🕹️ Gta-SanAndreas | Game-inspired project/UI demo highlighting interactive design | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Top Project](https://img.shields.io/badge/Top%20Project-FF6F00?style=for-the-badge&logo=star&logoColor=white) | [Repo](https://github.com/HamiParsa/Gta-SanAndreas) | [Live](https://hamiparsa.github.io/Gta-SanAndreas/) |
 | 🎮 Rockstar-Games | Gaming-themed project showcasing UI & frontend skills with creativity | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Ongoing](https://img.shields.io/badge/Ongoing-FFEA00?style=for-the-badge&logo=progress?logoColor=black) | [Repo](https://github.com/HamiParsa/Rockstar-Games) | [Live](https://hamiparsa.github.io/Rockstar-Games/) |
 
-
+<div align="center">
+    <img src="poster.png"/>
+</div>
 
 # 📊 GitHub Stats
 <div align="center">
