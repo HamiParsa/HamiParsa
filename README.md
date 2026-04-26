@@ -72,9 +72,50 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 </div>
 <br/>
 <br/>
+<<<<<<< Updated upstream
 
 <div align="center">
     
+=======
+<br/>
+
+<div align="center">
+
+### 🚀 Front-End Power Tools
+
+<!-- Languages -->
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="CSS3" />
+</div>
+
+<!-- Frameworks & Libraries -->
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=redux" height="70" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=framer" height="70" alt="Framer Motion" />
+</div>
+
+<!-- Tools & Deployment -->
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="70" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="Node.js" />
+</div>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
+
+>>>>>>> Stashed changes
 ### 🔗 CONNECT // ONLINE
 <a href="https://github.com/HamiParsa">
     <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=000000"/>
