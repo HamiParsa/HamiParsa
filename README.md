@@ -204,10 +204,15 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 | 🎭 Art-The-Clown | Game/graphic-themed project demonstrating creative UI & animations | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Ongoing](https://img.shields.io/badge/Ongoing-FFEA00?style=for-the-badge&logo=progress?logoColor=black) | [Repo](https://github.com/HamiParsa/Art-The-Clown) | [Live](https://hamiparsa.github.io/Art-The-Clown/) |
 | 🕹️ Gta-SanAndreas | Game-inspired project/UI demo highlighting interactive design | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Top Project](https://img.shields.io/badge/Top%20Project-FF6F00?style=for-the-badge&logo=star&logoColor=white) | [Repo](https://github.com/HamiParsa/Gta-SanAndreas) | [Live](https://hamiparsa.github.io/Gta-SanAndreas/) |
 | 🎮 Rockstar-Games | Gaming-themed project showcasing UI & frontend skills with creativity | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Ongoing](https://img.shields.io/badge/Ongoing-FFEA00?style=for-the-badge&logo=progress?logoColor=black) | [Repo](https://github.com/HamiParsa/Rockstar-Games) | [Live](https://hamiparsa.github.io/Rockstar-Games/) |
-
+<br/>
+<br/>
+<br/> 
 <div align="center">
     <img src="poster.png"/>
 </div>
+<br/>
+<br/>
+<br/> 
 
 # 📊 GitHub Stats
 <div align="center">
@@ -242,6 +247,9 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 </div>
 
 
+<div align="center">
+    <img src = "https://camo.githubusercontent.com/2d5e47d02eb715bcb2c0003e52f5dd1d7e1b2bbd7f08b9fd3d6b8e6ca8b139c2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3134302673656374696f6e3d666f6f74657226636f6c6f723d303a3042313332422c32353a3143323534312c35303a3341353036422c37353a3542433042452c3130303a364646464539" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
