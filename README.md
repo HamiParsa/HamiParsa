@@ -136,7 +136,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 ### 💖 Support Me // Donate
 
 <p style="color:#F7F7F7; font-size:16px;">
-If you enjoy my projects, support me with a donation! Every contribution motivates me to build more amazing things 🎮✨
+If you enjoy my projects, support me with a donation! Every contribution motivates me to build more amazing things 💣✨
 </p>
 
 <img src="/Donate.jpg" alt="Donate QR Code" width="200" style="border-radius:15px; box-shadow: 0 0 10px #00F5FF, 0 0 20px #FF00AA;" />
