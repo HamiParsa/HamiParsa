@@ -75,6 +75,9 @@ Contribute to **open-source projects** and build front-end experiences people ge
 <img src="poster2.png"/>
 
 </div>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 
