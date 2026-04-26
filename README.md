@@ -76,15 +76,15 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 <div align="center">
     
 ### 🔗 CONNECT // ONLINE
-<a href="https://github.com/HamiParsa">
+<a href="https://github.com/HamiParsa" target="blank">
     <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=000000"/>
 </a>
 
-<a href="https://t.me/HeroHami">
+<a href="https://t.me/HeroHami" target="blank">
   <img src="https://img.shields.io/badge/DIRECT_CHAT-TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=00F5FF&labelColor=000000"/>
 </a>
 
-<a href="https://www.linkedin.com/in/HamiParsa">
+<a href="https://www.linkedin.com/in/HamiParsa" target="blank">
   <img src="https://img.shields.io/badge/PRO_NETWORK-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000"/>
 </a>
 
