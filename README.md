@@ -220,33 +220,39 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 # 📊 GitHub Stats
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td>
-      <!-- GitHub Stats -->
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF&bg_color=0d1117" 
-        alt="GitHub Stats" 
-      />
-    </td>
+  <table align="center" cellspacing="0" cellpadding="6" style="border-collapse: collapse; border: 1px solid #30363d;">
+    <tr>
+      <td align="center" style="padding: 6px; border: none;">
+        <!-- GitHub Stats -->
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF&bg_color=00000000" 
+          alt="GitHub Stats" 
+        />
+      </td>
+      <td align="center" style="padding: 6px; border: none;">
+        <!-- GitHub Streak -->
+        <img 
+          src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true&ring=A890FF&fire=FF6BFF&currStreakNum=7FDBFF&currStreakLabel=A890FF&sideNums=C0E0FF&sideLabels=7FDBFF&dates=8CAFFF&background=00000000" 
+          alt="GitHub Streak" 
+        />
+      </td>
+    </tr>
 
-<td>
-      <!-- GitHub Streak -->
-      <img 
-        src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=false&ring=A890FF&fire=FF6BFF&currStreakNum=7FDBFF&currStreakLabel=A890FF&sideNums=C0E0FF&sideLabels=7FDBFF&dates=8CAFFF&background=0d1117" 
-        alt="GitHub Streak" 
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=false&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF&bg_color=0d1117" 
-  alt="Top Languages" 
-/>
+<tr>
+      <td colspan="2" align="center" style="padding: 6px; border: none;">
+        <!-- Top Languages -->
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF&bg_color=00000000" 
+          alt="Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
+
+
 
 
 
