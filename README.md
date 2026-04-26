@@ -131,6 +131,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 
 <p style="color:#F7F7F7; font-size:16px;">
 If you enjoy my projects, support me with a donation! Every contribution motivates me to build more amazing things 💣✨
+<br/>
 scan qr code for donate 
 </p>
 
