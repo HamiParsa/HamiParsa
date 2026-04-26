@@ -70,10 +70,62 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 
 <div align="center">
 
+<<<<<<< Updated upstream
 ⚡ *I start as a Front-End Developer. But that's not where I end.*
+=======
+<<<<<<< HEAD
+=======
+<img src="poster2.png"/>
+>>>>>>> Stashed changes
+
+</div>
+<br/>
+<br/>
+<br/>
+
+<<<<<<< Updated upstream
+=======
+<div align="center">
+
+>>>>>>> 7582253c10cf5b21ccc7554cedc38447b391d073
+⚡ *I don’t just learn frameworks — I build with intent.*  
+🧠 *Engineering mindset, gamer soul.*
 
 </div>
 
+
+
+<div align="center">
+
+### 🚀 Front-End Power Tools
+
+<!-- Languages -->
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="CSS3" />
+</div>
+
+<!-- Frameworks & Libraries -->
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=redux" height="70" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=framer" height="70" alt="Framer Motion" />
+</div>
+
+<!-- Tools & Deployment -->
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="70" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="Node.js" />
+</div>
+
+</div>
+>>>>>>> Stashed changes
 
 
 
@@ -210,7 +262,10 @@ Gaming-themed frontend project with creative design
 
 # 📊 GitHub Stats
 <div align="center">
+<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF" alt="GitHub Stats" />
 
+<<<<<<< Updated upstream
   <table align="center" cellspacing="0" cellpadding="6" style="border-collapse: collapse; border: 1px solid #30363d;">
     <tr>
       <td align="center" style="padding: 6px; border: none;">
@@ -239,6 +294,14 @@ Gaming-themed frontend project with creative design
       </td>
     </tr>
   </table>
+=======
+<img src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=false&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF" alt="Top Languages" />
+>>>>>>> Stashed changes
 
 </div>
 
