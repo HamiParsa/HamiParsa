@@ -260,9 +260,10 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 
 # 🏆 GitHub Trophies
 <div align="center">
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=dark&no-frame=true&no-bg=false&row=1" alt="GitHub Trophies" />
-
+  <img
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=dark&no-frame=true&no-bg=true&title_color=FFFFFF&row=1"
+    alt="GitHub Trophies"
+  />
 </div>
 
 
