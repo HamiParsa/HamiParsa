@@ -116,9 +116,6 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
   <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactIcons-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-  <!-- Backend / Learning -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
