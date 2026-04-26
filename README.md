@@ -146,7 +146,7 @@ Contribute to **open-source projects** and build front-end experiences people ge
 
 <div align="center">
 
-### 💻 Tech Stack // STACK OF A GAMER-DEVELOPER
+### 💻 Tech Stack // STACK OF A DEVELOPER
 
 <p align="center">
   <!-- Front-End -->
