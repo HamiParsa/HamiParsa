@@ -11,64 +11,44 @@
 
 
 # 💫 About Me:
+
 [![Visit Profile Bio](https://img.shields.io/badge/Visit%20Profile%20Bio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/About-Me/)
 [![Visit Website Project's](https://img.shields.io/badge/Visit%20Website%20Project's-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
 
+---
 
-<div>
+👋 **I'm Hami Parsa — Front-End Developer, future Full-Stack, and someone who thinks bigger than just code.**
 
-🎮 **Front-End Developer**  
-Crafting modern, scalable & gaming-inspired web experiences
+🎯 **Right now:**  
+I build clean, scalable web applications with **Next.js, TypeScript, and modern front-end tools**.  
+I’m on a clear path to becoming a **Full-Stack Developer** — but that’s just a step, not the final destination.
 
-</div>
+🧠 **My real vision:**  
+I don’t want to just *write code for websites*.  
+I want to **build things that matter** — tools, platforms, or systems that solve real problems and reach many people.
+
+🚀 **The bigger picture:**  
+- First, master the craft (Front-End → Full-Stack)  
+- Then, build meaningful products  
+- Eventually, make a real impact in the **tech world** — beyond just being "a web developer"
+
+🌱 **What drives me every day:**  
+- Curiosity about how great software is built  
+- The desire to grow beyond frameworks  
+- The belief that a developer can become a creator
 
 ---
 
-### 💻 Tech Stack
-`Next.js` · `React` · `TypeScript` · `Zustand` · `Tailwind CSS` · `SPA Architecture`
+🎯 **Short-term goal:**  
+Become a strong **Full-Stack Developer** who can build complete products from zero.
+
+🏆 **Long-term mission:**  
+To be part of — or lead — projects that **change the way people interact with technology**, not just follow trends.
 
 ---
 
-### 🕹️ Current Focus
-- Building a **gaming-inspired single-page platform**
-- Single-component architecture
-- On the path to **becoming Full-Stack**  
-  *(strong Front-End focus while learning Back-End concepts)*
-- Clean state management & scalable structure
+> *“I start as a Front-End Developer. But that’s not where I end.”*
 
----
-
-### 🎯 Mission
-Build **real-world projects** that are:
-- Resume-ready  
-- Freelance-ready  
-- Production-minded  
-
----
-
-### 🎨 What I Care About
-- UI / UX & Game UI systems  
-- Motion, micro-interactions & smooth animations  
-- Clean, maintainable component architecture  
-
----
-
-### 🌱 Currently Exploring
-- Advanced animations with **Framer Motion**
-- 3D & interactive web experiences
-- Applying **game UI mechanics** to web interfaces
-
----
-
-### 🚀 Mindset
-> Learn → Apply → Refactor → Ship
-
----
-
-### 🏆 Dream
-Contribute to **open-source projects** and build front-end experiences people genuinely enjoy using.
-
----
 
 <div align="center">
 
