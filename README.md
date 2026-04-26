@@ -152,7 +152,7 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 
 ## 🚀 My Top Projects
 
-<div align="center">
+<div>
 
 ### 📱 My-Messenger
 `Next.js` · `Tailwind` · `TypeScript`  
