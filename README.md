@@ -219,23 +219,15 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 
 # 📊 GitHub Stats
 <div align="center">
+<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF" alt="GitHub Stats" />
 
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    
-<td style="border: none; padding: 0 10px;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF" alt="GitHub Stats" />
-    </td>
+<img src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=false" alt="GitHub Streak" />
 
-    
-<td style="border: none; padding: 0 10px;">
-      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
+<br/>
+<br/>
 
-  
-</table>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=false&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=false&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF" alt="Top Languages" />
 
 </div>
 
