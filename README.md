@@ -25,7 +25,7 @@ Crafting modern, scalable & gaming-inspired web experiences
 ---
 
 ### 💻 Tech Stack
-`Next.js` · `React` · `TypeScript` · `Redux` · `Tailwind CSS` · `SPA Architecture`
+`Next.js` · `React` · `TypeScript` · `Zustand` · `Tailwind CSS` · `SPA Architecture`
 
 ---
 
