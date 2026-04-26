@@ -67,20 +67,13 @@ Eventually, make a real impact in the **tech world** — beyond just being "a we
 Every project must be resume-ready, portfolio-worthy, and built with intent.
 
 ---
-
 <div align="center">
-
-
 ⚡ *I start as a Front-End Developer. But that's not where I end.*
-
-
 </div>
-
 <br/>
 <br/>
 
-<div align="center">
-    
+<div align="center">    
 ### 🔗 CONNECT // ONLINE
   <a href="https://github.com/HamiParsa">
   <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=000000"/>
