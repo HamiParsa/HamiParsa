@@ -150,17 +150,55 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 </div>
 
 
-## 🚀 My Top Projects (Next.js + Tailwind + TypeScript)
+## 🚀 My Top Projects
 
-| Project | Description | Tech Stack | Status | Repo | Live |
-|---------|-------------|------------|--------|------|------|
-| 🎮 My-Messenger | Real-world messaging app showing frontend skills & real-time state management | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-00FF00?style=for-the-badge&logo=check&logoColor=white) | [Repo](https://github.com/HamiParsa/My-Messenger) | [Live](https://hamiparsa.github.io/My-Messenger/) |
-| 🚗 Tesla | Tesla app clone demonstrating interactive UI & React skills | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Top Project](https://img.shields.io/badge/Top%20Project-FF6F00?style=for-the-badge&logo=star&logoColor=white) | [Repo](https://github.com/HamiParsa/Tesla) | [Live](https://hamiparsa.github.io/Tesla/) |
-| 🌐 HamiParsa | Personal portfolio showcasing skills, UI/UX & animations | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-00FF00?style=for-the-badge&logo=check&logoColor=white) | [Repo](https://github.com/HamiParsa/Profile-Bio) | [Live](https://hamiparsa.github.io/Profile-Bio/) |
-| 🎭 Art-The-Clown | Game/graphic-themed project demonstrating creative UI & animations | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Ongoing](https://img.shields.io/badge/Ongoing-FFEA00?style=for-the-badge&logo=progress?logoColor=black) | [Repo](https://github.com/HamiParsa/Art-The-Clown) | [Live](https://hamiparsa.github.io/Art-The-Clown/) |
-| 🕹️ Gta-SanAndreas | Game-inspired project/UI demo highlighting interactive design | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Top Project](https://img.shields.io/badge/Top%20Project-FF6F00?style=for-the-badge&logo=star&logoColor=white) | [Repo](https://github.com/HamiParsa/Gta-SanAndreas) | [Live](https://hamiparsa.github.io/Gta-SanAndreas/) |
-| 🎮 Rockstar-Games | Gaming-themed project showcasing UI & frontend skills with creativity | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F5FF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Ongoing](https://img.shields.io/badge/Ongoing-FFEA00?style=for-the-badge&logo=progress?logoColor=black) | [Repo](https://github.com/HamiParsa/Rockstar-Games) | [Live](https://hamiparsa.github.io/Rockstar-Games/) |
-<br/>
+<div align="center">
+
+### 📱 My-Messenger
+`Next.js` · `Tailwind` · `TypeScript`  
+Real-time messaging app demonstrating frontend state management  
+[🔗 Repo](https://github.com/HamiParsa/My-Messenger) · [🌐 Live](https://hamiparsa.github.io/My-Messenger/)
+
+---
+
+### 🚗 Tesla
+`Next.js` · `Tailwind` · `TypeScript`  
+Tesla configurator clone with interactive UI & smooth animations  
+[🔗 Repo](https://github.com/HamiParsa/Tesla) · [🌐 Live](https://hamiparsa.github.io/Tesla/)
+
+---
+
+### 👤 HamiParsa
+`Next.js` · `Tailwind` · `TypeScript`  
+Personal portfolio & bio site showcasing UI/UX skills  
+[🔗 Repo](https://github.com/HamiParsa/Profile-Bio) · [🌐 Live](https://hamiparsa.github.io/Profile-Bio/)
+
+---
+
+### 🎨 Art-The-Clown
+`Next.js` · `Tailwind` · `TypeScript`  
+Creative UI experiment with graphic/art direction  
+[🔗 Repo](https://github.com/HamiParsa/Art-The-Clown) · [🌐 Live](https://hamiparsa.github.io/Art-The-Clown/)
+
+---
+
+### 🕹️ Gta-SanAndreas
+`Next.js` · `Tailwind` · `TypeScript`  
+Interactive UI demo inspired by game interfaces  
+[🔗 Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [🌐 Live](https://hamiparsa.github.io/Gta-SanAndreas/)
+
+---
+
+### 🎮 Rockstar-Games
+`Next.js` · `Tailwind` · `TypeScript`  
+Gaming-themed frontend project with creative design  
+[🔗 Repo](https://github.com/HamiParsa/Rockstar-Games) · [🌐 Live](https://hamiparsa.github.io/Rockstar-Games/)
+
+</div>
+
+---
+
+> 💡 *All projects built with clean architecture, responsive design, and production-ready mindset.*
 <br/>
 <br/> 
 <div align="center">
