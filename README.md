@@ -11,58 +11,67 @@
 
 
 # 💫 About Me:
+# 💫 About Me:
 
 [![Visit Profile Bio](https://img.shields.io/badge/Visit%20Profile%20Bio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/About-Me/)
 [![Visit Website Project's](https://img.shields.io/badge/Visit%20Website%20Project's-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
 
 ---
 
-👋 **I'm Hami Parsa — Front-End Developer, future Full-Stack, and someone who thinks bigger than just code.**
+<div>
 
-🎯 **Right now:**  
-I build clean, scalable web applications with **Next.js, TypeScript, and modern front-end tools**.  
-I’m on a clear path to becoming a **Full-Stack Developer** — but that’s just a step, not the final destination.
+👋 **Front-End Developer** · Future Full-Stack · Tech Creator
 
-🧠 **My real vision:**  
-I don’t want to just *write code for websites*.  
-I want to **build things that matter** — tools, platforms, or systems that solve real problems and reach many people.
+</div>
 
-🚀 **The bigger picture:**  
-- First, master the craft (Front-End → Full-Stack)  
-- Then, build meaningful products  
-- Eventually, make a real impact in the **tech world** — beyond just being "a web developer"
+---
 
-🌱 **What drives me every day:**  
-- Curiosity about how great software is built  
-- The desire to grow beyond frameworks  
+### 🎯 Current Focus
+
+- Mastering **Next.js** & **TypeScript** in real-world scenarios
+- On the path to becoming **Full-Stack Developer**
+- Building projects with production mindset from day one
+
+---
+
+### 🧠 My Vision
+
+> I don't want to just *write code for websites*.  
+> I want to **build things that matter** — tools, platforms, and systems that solve real problems.
+
+First, master the craft (Front-End → Full-Stack).  
+Then, build meaningful products.  
+Eventually, make a real impact in the **tech world** — beyond just being "a web developer".
+
+---
+
+### 🚀 What Drives Me
+
+- Curiosity about how great software is built
+- The desire to grow beyond frameworks
 - The belief that a developer can become a creator
 
 ---
 
-🎯 **Short-term goal:**  
-Become a strong **Full-Stack Developer** who can build complete products from zero.
+### 🎯 Mission
 
-🏆 **Long-term mission:**  
-To be part of — or lead — projects that **change the way people interact with technology**, not just follow trends.
+**Short-term:** Become a strong Full-Stack Developer who can build complete products from zero.
+
+**Long-term:** Be part of — or lead — projects that **change the way people interact with technology**.
 
 ---
 
-> *“I start as a Front-End Developer. But that’s not where I end.”*
+### 🌱 Mindset
 
+> Learn → Build → Refactor → Ship
 
-<div align="center">
+Every project must be resume-ready, portfolio-worthy, and built with intent.
 
-<img src="poster2.png"/>
-
-</div>
-<br/>
-<br/>
-<br/>
+---
 
 <div align="center">
 
-⚡ *I don’t just learn frameworks — I build with intent.*  
-🧠 *Engineering mindset, gamer soul.*
+⚡ *I start as a Front-End Developer. But that's not where I end.*
 
 </div>
 
