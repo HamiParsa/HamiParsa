@@ -205,12 +205,6 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 </div>
 
 
-
-
-
-
-
-
 # 🏆 GitHub Trophies
 <div align="center">
   <img
