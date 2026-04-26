@@ -72,6 +72,12 @@ Contribute to **open-source projects** and build front-end experiences people ge
 
 <div align="center">
 
+<img src="poster2.png"/>
+
+</div>
+
+<div align="center">
+
 ⚡ *I don’t just learn frameworks — I build with intent.*  
 🧠 *Engineering mindset, gamer soul.*
 
