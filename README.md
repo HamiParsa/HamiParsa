@@ -219,18 +219,35 @@ If you enjoy my projects, support me with a donation! Every contribution motivat
 
 # 📊 GitHub Stats
 <div align="center">
-<br/>
 
-<img src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF" alt="Top Languages" />
+<table align="center">
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF&bg_color=0d1117" 
+        alt="GitHub Stats" 
+      />
+    </td>
 
+<td>
+      <!-- GitHub Streak -->
+      <img 
+        src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=false&ring=A890FF&fire=FF6BFF&currStreakNum=7FDBFF&currStreakLabel=A890FF&sideNums=C0E0FF&sideLabels=7FDBFF&dates=8CAFFF&background=0d1117" 
+        alt="GitHub Streak" 
+      />
+    </td>
+  </tr>
+</table>
 
-<br/>
-<br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF" alt="GitHub Stats" />
-
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=false&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF&bg_color=0d1117" 
+  alt="Top Languages" 
+/>
 
 </div>
+
 
 
 
