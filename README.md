@@ -108,7 +108,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 
   <!-- Animation & UI -->
   <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactIcons-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
