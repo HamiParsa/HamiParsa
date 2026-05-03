@@ -117,29 +117,25 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 
 
 <div align="center">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0066&height=50&section=header" />
-</p>
-
-<div style="background: #0d1117; padding: 20px; border-radius: 20px; display: inline-block; box-shadow: 0 0 15px #00F5FF, 0 0 30px #FF00AA;">
+  <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00FFFF,FF00FF&section=header" />
   
-### 💖 Support Me // Donate
-
-<p style="color:#F7F7F7; font-size:16px;">
-If you enjoy my projects, support me with a donation! Every contribution motivates me to build more amazing things 💣✨
-<br/>
-scan qr code for donate 
-</p>
-
-<img src="/Donate.png" alt="Donate QR Code" width="200" style="border-radius:15px; box-shadow: 0 0 10px #00F5FF, 0 0 20px #FF00AA;" />
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0066&height=50&section=footer" />
-</p>
-
+  <h3>💖 Support My Journey</h3>
+  <p>If you enjoy my projects, a small donation fuels my passion to build more amazing things! 💣✨</p>
+  
+  <br>
+  
+  <!-- QR Code Section with Neon Border -->
+  
+  <img src="Donate.png" alt="Scan to Donate" width="180" style="border: 2px solid #00FFFF; border-radius: 10px; box-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF;" />
+ 
+  
+  <p style="font-size: 12px; color: #8b949e; margin-top: 10px;">Scan QrCode For Donate</p>
+  
+  <br>
+  
+  <!-- Footer Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00FF,00FFFF&section=footer" />
 </div>
 
 
