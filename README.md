@@ -1,19 +1,16 @@
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&size=25&duration=2000&pause=500&color=7fef58&center=true&width=500&lines=Hello%2C%20Im%20Hami%20Parsa;I%20Love%20Programming;I%E2%80%99m%20Front%20End%20Developer" alt="Typing SVG" />
+</div>
 <div align="center">
     <img src="baner.png"/>
 </div>
 <br/>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=40&pause=1000&color=F7F7F7&width=435&lines=Hello+%2C+I'm+Hami+Parsa;I+Love+Programming;I'm+Front-End+Developer" alt="Typing SVG" /></a>
-    <br/>
-</div>
 <br/>
-
 
 # 💫 About Me:
 
-[![Visit Profile Bio](https://img.shields.io/badge/Visit%20Profile%20Bio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/About-Me/)
-[![Visit Website Project's](https://img.shields.io/badge/Visit%20Website%20Project's-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
+[![Visit Profile Bio](https://img.shields.io/badge/Visit%20Profile%20Bio-12687b?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/About-Me/)
+[![Visit Website Project's](https://img.shields.io/badge/Visit%20Website%20Project's-d72031?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
 
 ---
 
@@ -72,50 +69,9 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 </div>
 <br/>
 <br/>
-<<<<<<< Updated upstream
 
 <div align="center">
     
-=======
-<br/>
-
-<div align="center">
-
-### 🚀 Front-End Power Tools
-
-<!-- Languages -->
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" height="70" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" alt="CSS3" />
-</div>
-
-<!-- Frameworks & Libraries -->
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=redux" height="70" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=framer" height="70" alt="Framer Motion" />
-</div>
-
-<!-- Tools & Deployment -->
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=git" height="70" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="70" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="Node.js" />
-</div>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
->>>>>>> Stashed changes
 ### 🔗 CONNECT // ONLINE
 <a href="https://github.com/HamiParsa">
     <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=000000"/>
@@ -141,99 +97,103 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 
 <p align="center">
   <!-- Front-End -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=E0FFFF" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 
   <!-- Animation & UI -->
-  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/FramerMotion-000000?logo=hyper&logoColor=fff" />
   
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
 </p>
 
 </div>
 
 
 <div align="center">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0066&height=50&section=header" />
-</p>
-
-<div style="background: #0d1117; padding: 20px; border-radius: 20px; display: inline-block; box-shadow: 0 0 15px #00F5FF, 0 0 30px #FF00AA;">
+  <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00FFFF,FF00FF&section=header" />
   
-### 💖 Support Me // Donate
+  <h3>💖 Support My Journey</h3>
+  <p>If you enjoy my projects, a small donation fuels my passion to build more amazing things! 💣✨</p>
+  
+  <br/>
+  
+  <!-- QR Code Section with Neon Border -->
+  
+  <img src="Donate.png" alt="Scan to Donate" width="180" style="border: 2px solid #00FFFF; border-radius: 10px; box-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF;" />
 
-<p style="color:#F7F7F7; font-size:16px;">
-If you enjoy my projects, support me with a donation! Every contribution motivates me to build more amazing things 💣✨
-</p>
-
-<img src="/Donate.png" alt="Donate QR Code" width="200" style="border-radius:15px; box-shadow: 0 0 10px #00F5FF, 0 0 20px #FF00AA;" />
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0066&height=50&section=footer" />
-</p>
-
+  <br/>
+  
+  
+  <p style="font-size: 12px; color: #8b949e; margin-top: 10px;">Scan QrCode For Donate</p>
+  
+   
+  
+  <!-- Footer Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00FF,00FFFF&section=footer" />
 </div>
 
 
 ## 🚀 My Top Projects
 
-<div>
+<div align="center">
 
 ### 📱 My-Messenger
-`Next.js` · `Tailwind` · `TypeScript`  
-Real-time messaging app demonstrating frontend state management  
-[🔗 Repo](https://github.com/HamiParsa/My-Messenger) · [🌐 Live](https://hamiparsa.github.io/My-Messenger/)
+> **Real-time Messaging App**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 💬 Seamless communication with instant state management.  
+> [🔗 Repo](https://github.com/HamiParsa/My-Messenger) · [🌐 Live](https://hamiparsa.github.io/My-Messenger/)
 
 ---
 
-### 🚗 Tesla
-`Next.js` · `Tailwind` · `TypeScript`  
-Tesla configurator clone with interactive UI & smooth animations  
-[🔗 Repo](https://github.com/HamiParsa/Tesla) · [🌐 Live](https://hamiparsa.github.io/Tesla/)
+### 🚗 Tesla Configurator
+> **Interactive Car Builder**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🎨 High-performance UI with smooth animations & dynamic configuration.  
+> [🔗 Repo](https://github.com/HamiParsa/Tesla) · [🌐 Live](https://hamiparsa.github.io/Tesla/)
 
 ---
 
-### 👤 HamiParsa
-`Next.js` · `Tailwind` · `TypeScript`  
-Personal portfolio & bio site showcasing UI/UX skills  
-[🔗 Repo](https://github.com/HamiParsa/Profile-Bio) · [🌐 Live](https://hamiparsa.github.io/Profile-Bio/)
+### 👤 HamiParsa (Portfolio)
+> **Personal Portfolio & Bio**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> ✨ Showcasing UI/UX skills and professional journey.  
+> [🔗 Repo](https://github.com/HamiParsa/Profile-Bio) · [🌐 Live](https://hamiparsa.github.io/Profile-Bio/)
 
 ---
 
 ### 🎨 Art-The-Clown
-`Next.js` · `Tailwind` · `TypeScript`  
-Creative UI experiment with graphic/art direction  
-[🔗 Repo](https://github.com/HamiParsa/Art-The-Clown) · [🌐 Live](https://hamiparsa.github.io/Art-The-Clown/)
+> **Creative UI Experiment**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🤡 A unique graphic-driven interface exploring artistic web design.  
+> [🔗 Repo](https://github.com/HamiParsa/Art-The-Clown) · [🌐 Live](https://hamiparsa.github.io/Art-The-Clown/)
 
 ---
 
-### 🕹️ Gta-SanAndreas
-`Next.js` · `Tailwind` · `TypeScript`  
-Interactive UI demo inspired by game interfaces  
-[🔗 Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [🌐 Live](https://hamiparsa.github.io/Gta-SanAndreas/)
+### 🕹️ GTA San Andreas UI
+> **Gaming-Inspired Interface**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🎮 Interactive demo inspired by classic game HUDs and aesthetics.  
+> [🔗 Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [🌐 Live](https://hamiparsa.github.io/Gta-SanAndreas/)
 
 ---
 
-### 🎮 Rockstar-Games
-`Next.js` · `Tailwind` · `TypeScript`  
-Gaming-themed frontend project with creative design  
-[🔗 Repo](https://github.com/HamiParsa/Rockstar-Games) · [🌐 Live](https://hamiparsa.github.io/Rockstar-Games/)
+### 🎮 Rockstar Games Theme
+> **Gaming-Themed Frontend**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🎲 Creative design elements inspired by the Rockstar universe.  
+> [🔗 Repo](https://github.com/HamiParsa/Rockstar-Games) · [🌐 Live](https://hamiparsa.github.io/Rockstar-Games/)
 
 </div>
 
----
-
-> 💡 *All projects built with clean architecture, responsive design, and production-ready mindset.*
+> 💡 _All projects built with clean architecture, responsive design, and production-ready mindset._  
 <br/>
 <br/> 
 <div align="center">
@@ -244,58 +204,47 @@ Gaming-themed frontend project with creative design
 <br/> 
 
 # 📊 GitHub Stats
-<div align="center">
-<br/>
-  <table align="center" cellspacing="0" cellpadding="6" style="border-collapse: collapse; border: 1px solid #30363d;">
-    <tr>
-      <td align="center" style="padding: 6px; border: none;">
-        <!-- GitHub Stats -->
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF&bg_color=00000000" 
-          alt="GitHub Stats" 
-        />
-      </td>
-      <td align="center" style="padding: 6px; border: none;">
-        <!-- GitHub Streak -->
-        <img 
-          src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true&ring=A890FF&fire=FF6BFF&currStreakNum=7FDBFF&currStreakLabel=A890FF&sideNums=C0E0FF&sideLabels=7FDBFF&dates=8CAFFF&background=00000000" 
-          alt="GitHub Streak" 
-        />
-      </td>
-    </tr>
 
-<tr>
-      <td colspan="2" align="center" style="padding: 6px; border: none;">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 5px; border: none; width: 33%;">
+        <!-- GitHub Stats -->
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=FF00FF&text_color=CCFFFF&bg_color=00000000&width=250"
+          alt="GitHub Stats"
+          style="width: 250px; height: auto;"
+        />
+      </td>
+      <td align="center" style="padding: 5px; border: none; width: 33%;">
+        <!-- GitHub Streak -->
+        <img
+          src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakNum=CCFFFF&currStreakLabel=00FFFF&sideNums=CCFFFF&sideLabels=CCFFFF&dates=88CCFF&background=00000000"
+          alt="GitHub Streak"
+          style="width: 280px; height: auto;"
+        />
+      </td>
+      <td align="center" style="padding: 5px; border: none; width: 33%;">
         <!-- Top Languages -->
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF&bg_color=00000000" 
-          alt="Top Languages" 
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&count_private=true&title_color=00FFFF&text_color=CCFFFF&icon_color=FF00FF&bg_color=00000000"
+          alt="Top Languages"
+          style="width: 250px; height: auto;"
         />
       </td>
     </tr>
   </table>
-<br/>
-<br/>
-
 </div>
-
 
 # 🏆 GitHub Trophies
 <div align="center">
   <img
-    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=dark&no-frame=true&no-bg=true&title_color=FFFFFF&row=1"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=radical&no-frame=true&no-bg=true&row=1"
     alt="GitHub Trophies"
   />
 </div>
 
-
-<div align="center">
-    <img src = "https://camo.githubusercontent.com/2d5e47d02eb715bcb2c0003e52f5dd1d7e1b2bbd7f08b9fd3d6b8e6ca8b139c2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3134302673656374696f6e3d666f6f74657226636f6c6f723d303a3042313332422c32353a3143323534312c35303a3341353036422c37353a3542433042452c3130303a364646464539" />
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 ## 👾 Pacman Maze 
 
