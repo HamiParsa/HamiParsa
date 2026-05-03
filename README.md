@@ -198,6 +198,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 <br/>
 
 # 📊 GitHub Stats
+<br/>
 
 <div align="center">
   <table>
@@ -233,6 +234,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 <br/>
 
 # 🏆 GitHub Trophies
+<br/>
 <div align="center">
   <img
     src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=radical&no-frame=true&no-bg=true&row=1"
@@ -241,6 +243,8 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<br/>
 
 ## 👾 Pacman Maze 
 
