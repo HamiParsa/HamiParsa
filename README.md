@@ -143,53 +143,57 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 
 ## 🚀 My Top Projects
 
-<div>
+<div align="center">
 
 ### 📱 My-Messenger
-`Next.js` · `Tailwind` · `TypeScript`  
-Real-time messaging app demonstrating frontend state management  
-[🔗 Repo](https://github.com/HamiParsa/My-Messenger) · [🌐 Live](https://hamiparsa.github.io/My-Messenger/)
+> **Real-time Messaging App**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 💬 Seamless communication with instant state management.  
+> [🔗 Repo](https://github.com/HamiParsa/My-Messenger) · [🌐 Live](https://hamiparsa.github.io/My-Messenger/)
 
 ---
 
-### 🚗 Tesla
-`Next.js` · `Tailwind` · `TypeScript`  
-Tesla configurator clone with interactive UI & smooth animations  
-[🔗 Repo](https://github.com/HamiParsa/Tesla) · [🌐 Live](https://hamiparsa.github.io/Tesla/)
+### 🚗 Tesla Configurator
+> **Interactive Car Builder**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🎨 High-performance UI with smooth animations & dynamic configuration.  
+> [🔗 Repo](https://github.com/HamiParsa/Tesla) · [🌐 Live](https://hamiparsa.github.io/Tesla/)
 
 ---
 
-### 👤 HamiParsa
-`Next.js` · `Tailwind` · `TypeScript`  
-Personal portfolio & bio site showcasing UI/UX skills  
-[🔗 Repo](https://github.com/HamiParsa/Profile-Bio) · [🌐 Live](https://hamiparsa.github.io/Profile-Bio/)
+### 👤 HamiParsa (Portfolio)
+> **Personal Portfolio & Bio**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> ✨ Showcasing UI/UX skills and professional journey.  
+> [🔗 Repo](https://github.com/HamiParsa/Profile-Bio) · [🌐 Live](https://hamiparsa.github.io/Profile-Bio/)
 
 ---
 
 ### 🎨 Art-The-Clown
-`Next.js` · `Tailwind` · `TypeScript`  
-Creative UI experiment with graphic/art direction  
-[🔗 Repo](https://github.com/HamiParsa/Art-The-Clown) · [🌐 Live](https://hamiparsa.github.io/Art-The-Clown/)
+> **Creative UI Experiment**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🤡 A unique graphic-driven interface exploring artistic web design.  
+> [🔗 Repo](https://github.com/HamiParsa/Art-The-Clown) · [🌐 Live](https://hamiparsa.github.io/Art-The-Clown/)
 
 ---
 
-### 🕹️ Gta-SanAndreas
-`Next.js` · `Tailwind` · `TypeScript`  
-Interactive UI demo inspired by game interfaces  
-[🔗 Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [🌐 Live](https://hamiparsa.github.io/Gta-SanAndreas/)
+### 🕹️ GTA San Andreas UI
+> **Gaming-Inspired Interface**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🎮 Interactive demo inspired by classic game HUDs and aesthetics.  
+> [🔗 Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [🌐 Live](https://hamiparsa.github.io/Gta-SanAndreas/)
 
 ---
 
-### 🎮 Rockstar-Games
-`Next.js` · `Tailwind` · `TypeScript`  
-Gaming-themed frontend project with creative design  
-[🔗 Repo](https://github.com/HamiParsa/Rockstar-Games) · [🌐 Live](https://hamiparsa.github.io/Rockstar-Games/)
+### 🎮 Rockstar Games Theme
+> **Gaming-Themed Frontend**  
+> `Next.js` · `Tailwind` · `TypeScript`  
+> 🎲 Creative design elements inspired by the Rockstar universe.  
+> [🔗 Repo](https://github.com/HamiParsa/Rockstar-Games) · [🌐 Live](https://hamiparsa.github.io/Rockstar-Games/)
 
 </div>
 
----
-
-> 💡 *All projects built with clean architecture, responsive design, and production-ready mindset.*
+> 💡 _All projects built with clean architecture, responsive design, and production-ready mindset._  
 <br/>
 <br/> 
 <div align="center">
