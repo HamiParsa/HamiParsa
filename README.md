@@ -239,7 +239,7 @@ Gaming-themed frontend project with creative design
 # 🏆 GitHub Trophies
 <div align="center">
   <img
-    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=dark&no-frame=true&no-bg=true&title_color=FFFFFF&row=1"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=radical&no-frame=true&no-bg=true&row=1"
     alt="GitHub Trophies"
   />
 </div>
