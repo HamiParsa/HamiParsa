@@ -194,14 +194,6 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
 </div>
 
 > 💡 _All projects built with clean architecture, responsive design, and production-ready mindset._  
-<br/>
-<br/> 
-<div align="center">
-    <img src="poster.png"/>
-</div>
-<br/>
-<br/>
-<br/> 
 
 # 📊 GitHub Stats
 
@@ -253,3 +245,10 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
 </picture>
+
+
+<br/>
+<br/>
+<div align="center">
+    <img src="poster.png"/>
+</div>
