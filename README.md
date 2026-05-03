@@ -123,7 +123,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
   <h3>💖 Support My Journey</h3>
   <p>If you enjoy my projects, a small donation fuels my passion to build more amazing things! 💣✨</p>
   
-  <br>
+  
   
   <!-- QR Code Section with Neon Border -->
   
@@ -132,7 +132,7 @@ Every project must be resume-ready, portfolio-worthy, and built with intent.
   
   <p style="font-size: 12px; color: #8b949e; margin-top: 10px;">Scan QrCode For Donate</p>
   
-  <br>
+ 
   
   <!-- Footer Animation -->
   <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00FF,00FFFF&section=footer" />
