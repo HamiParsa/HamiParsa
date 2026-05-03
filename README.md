@@ -200,41 +200,37 @@ Gaming-themed frontend project with creative design
 <br/> 
 
 # 📊 GitHub Stats
-<div align="center">
-<br/>
-  <table align="center" cellspacing="0" cellpadding="6" style="border-collapse: collapse; border: 1px solid #30363d;">
-    <tr>
-      <td align="center" style="padding: 6px; border: none;">
-        <!-- GitHub Stats -->
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A890FF&text_color=C0E0FF&bg_color=00000000" 
-          alt="GitHub Stats" 
-        />
-      </td>
-      <td align="center" style="padding: 6px; border: none;">
-        <!-- GitHub Streak -->
-        <img 
-          src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true&ring=A890FF&fire=FF6BFF&currStreakNum=7FDBFF&currStreakLabel=A890FF&sideNums=C0E0FF&sideLabels=7FDBFF&dates=8CAFFF&background=00000000" 
-          alt="GitHub Streak" 
-        />
-      </td>
-    </tr>
 
-<tr>
-      <td colspan="2" align="center" style="padding: 6px; border: none;">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 5px; border: none; width: 33%;">
+        <!-- GitHub Stats -->
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=FF00FF&text_color=CCFFFF&bg_color=00000000&width=250"
+          alt="GitHub Stats"
+          style="width: 250px; height: auto;"
+        />
+      </td>
+      <td align="center" style="padding: 5px; border: none; width: 33%;">
+        <!-- GitHub Streak -->
+        <img
+          src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakNum=CCFFFF&currStreakLabel=00FFFF&sideNums=CCFFFF&sideLabels=CCFFFF&dates=88CCFF&background=00000000"
+          alt="GitHub Streak"
+          style="width: 280px; height: auto;"
+        />
+      </td>
+      <td align="center" style="padding: 5px; border: none; width: 33%;">
         <!-- Top Languages -->
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&count_private=true&title_color=7FDBFF&text_color=C0E0FF&icon_color=A890FF&bg_color=00000000" 
-          alt="Top Languages" 
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&count_private=true&title_color=00FFFF&text_color=CCFFFF&icon_color=FF00FF&bg_color=00000000"
+          alt="Top Languages"
+          style="width: 250px; height: auto;"
         />
       </td>
     </tr>
   </table>
-<br/>
-<br/>
-
 </div>
-
 
 # 🏆 GitHub Trophies
 <div align="center">
