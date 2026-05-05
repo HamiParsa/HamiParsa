@@ -1,4 +1,4 @@
-...................
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nosifer&size=25&duration=2000&pause=500&color=7fef58&center=true&width=500&lines=Hello%2C%20Im%20Hami%20Parsa;I%20Love%20Programming;I%E2%80%99m%20Front%20End%20Developer" alt="Typing SVG" />
 </div>
