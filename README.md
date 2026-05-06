@@ -8,6 +8,8 @@
 <br/>
 <br/>
 
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=pinetree)
+
 # 💫 About Me:
 
 [![Visit Profile Bio](https://img.shields.io/badge/Visit%20Profile%20Bio-800020?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/About-Me/)
