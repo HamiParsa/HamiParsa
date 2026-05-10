@@ -101,13 +101,10 @@
 
 ---
 
-<!-- TROPHIES SECTION -->
+## 🏆 // ACHIEVEMENTS UNLOCKED
+
 <div align="center">
-  
-### 🏆 <b>// ACHIEVEMENTS UNLOCKED</b>
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=6&row=1" width="90%"/>
-
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=4&margin-h=4" width="70%" />
 </div>
 
 ---
