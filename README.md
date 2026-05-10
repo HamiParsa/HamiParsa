@@ -8,98 +8,114 @@
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=pinetree" />
+  <img src="https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=dark&border=00FFCC&glow=true" />
 </div>
 
 ---
 
-# 💫 About Me
+<!-- SECTION: BADASS INTRO -->
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 <b>// CURRENT TARGET</b></h3>
+      <ul>
+        <li>⚡ Mastering <code>Next.js 14+</code> & <code>TypeScript</code> like a weapon</li>
+        <li>🎯 On the path to <b>Full-Stack domination</b></li>
+        <li>🏗️ Building production-grade <b>real-world systems</b></li>
+        <li>🧠 <code>Learn</code> → <code>Build</code> → <code>Refactor</code> → <code>Ship or Die</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <b>// MISSION STATEMENT</b></h3>
+      <blockquote>
+        <i>“I don't write websites. I build tools, platforms, and systems that solve real f***ing problems.”</i><br/><br/>
+        <b>Phase 1:</b> Master the craft 🔧<br/>
+        <b>Phase 2:</b> Build meaningful products 🚀<br/>
+        <b>Phase 3:</b> Disrupt the tech world 💣
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
+---
+
+<!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
   
-### 👋 Front-End Developer · Future Full-Stack · Tech Creator
+### 💀 <b>// WEAPONS OF CHOICE</b> 💀
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
 
 </div>
 
-| | |
-|---|---|
-| 🎯 **Current Focus** | Mastering Next.js & TypeScript → Path to Full-Stack |
-| 🧠 **Vision** | Build things that matter — tools & systems that solve real problems |
-| 🚀 **What Drives Me** | Curiosity · Growth mindset · Creator mentality |
-| 🌱 **Mindset** | Learn → Build → Refactor → Ship |
-
-> *"I start as a Front-End Developer. But that's not where I end."*
-
 ---
 
+<!-- PROJECTS: NEON GRID STYLE -->
 <div align="center">
   
-[![Visit Profile Bio](https://img.shields.io/badge/📖_Profile_Bio-800020?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/About-Me/)
-[![Visit Website Projects](https://img.shields.io/badge/🌐_Website_Projects-34495E?style=for-the-badge&logo=firefox&logoColor=white)](https://hamiparsa.github.io/Profile-Bio/)
+### 🚀 <b>// LIVE AMMO // PROJECTS</b> 🚀
+
+| Project | Tech Stack | 🔗 |
+|---------|-----------|-----|
+| **📱 My-Messenger** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/My-Messenger) · [Live](https://hamiparsa.github.io/My-Messenger/) |
+| **🚗 Tesla Configurator** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Tesla) · [Live](https://hamiparsa.github.io/Tesla/) |
+| **🎨 Art The Clown** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Art-The-Clown) · [Live](https://hamiparsa.github.io/Art-The-Clown/) |
+| **🎮 GTA San Andreas UI** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [Live](https://hamiparsa.github.io/Gta-SanAndreas/) |
+| **🎲 Rockstar Games** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Rockstar-Games) · [Live](https://hamiparsa.github.io/Rockstar-Games/) |
+| **👤 HamiParsa Portfolio** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Profile-Bio) · [Live](https://hamiparsa.github.io/Profile-Bio/) |
 
 </div>
 
 ---
 
+<!-- STATS SECTION WITH CUSTOM CSS -->
 <div align="center">
   
-### 💻 Tech Stack
+### 📊 <b>// RANKINGS & STATS</b>
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?logo=redux&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?logo=framer&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=00FFCC&icon_color=FF00CC&text_color=CCFFFF&bg_color=0d1117&ring_color=00FFCC" width="280"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=00FFCC&fire=FF00CC&currStreakNum=CCFFFF&currStreakLabel=00FFCC&sideNums=CCFFFF&sideLabels=00FFCC&dates=88CCFF&background=0d1117" width="310"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=00FFCC&text_color=CCFFFF&bg_color=0d1117" width="250"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Top Projects
-
+<!-- TROPHIES SECTION -->
 <div align="center">
+  
+### 🏆 <b>// ACHIEVEMENTS UNLOCKED</b>
 
-| Project | Stack | Links |
-|---------|-------|-------|
-| **My-Messenger** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/My-Messenger) · [Live](https://hamiparsa.github.io/My-Messenger/) |
-| **Tesla Configurator** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Tesla) · [Live](https://hamiparsa.github.io/Tesla/) |
-| **HamiParsa Portfolio** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Profile-Bio) · [Live](https://hamiparsa.github.io/Profile-Bio/) |
-| **Art The Clown** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Art-The-Clown) · [Live](https://hamiparsa.github.io/Art-The-Clown/) |
-| **GTA San Andreas UI** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Gta-SanAndreas) · [Live](https://hamiparsa.github.io/Gta-SanAndreas/) |
-| **Rockstar Games** | Next.js · Tailwind · TS | [Repo](https://github.com/HamiParsa/Rockstar-Games) · [Live](https://hamiparsa.github.io/Rockstar-Games/) |
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=6&row=1" width="90%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=dark&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=CCFFFF&bg_color=00000000" width="250"/></td>
-      <td><img src="https://streak-stats.demolab.com?user=HamiParsa&theme=dark&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakNum=CCFFFF&currStreakLabel=00FFFF&sideNums=CCFFFF&sideLabels=CCFFFF&dates=88CCFF&background=00000000" width="280"/></td>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&layout=compact&title_color=00FFFF&text_color=CCFFFF&bg_color=00000000" width="250"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=radical&no-frame=true&no-bg=true&row=1" />
-</div>
-
----
-
-## 👾 Contribution Graph
+  
+### 👾 <b>// COMMIT PAC-MAN // PAC-MAN COMMITS</b>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
@@ -107,41 +123,53 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
 </picture>
 
+</div>
+
 ---
 
+<!-- CONNECT & DONATE - DARK NEON THEME -->
 <div align="center">
   
-### 🔗 Connect With Me
+### 🔗 <b>// DEPLOY YOUR CONNECTION</b>
 
 <a href="https://github.com/HamiParsa">
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/BLACK_OPS-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=000000"/>
 </a>
 <a href="https://t.me/HeroHami">
-  <img src="https://img.shields.io/badge/TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/ENCRYPTED_CHAT-TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=00FFCC&labelColor=000000"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=000000"/>
 </a>
 
 </div>
 
 <br/>
 
+<!-- DONATE QR CODE - HYPER NEON BORDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00FFFF,FF00FF&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&gradientColor=00FFCC,FF00CC&section=header" />
   
-  <h3>💖 Support My Journey</h3>
-  <p>Scan QR code to donate — fuels my passion to build more amazing things</p>
+  <h3>💀 <b>SUPPORT THE MADNESS</b> 💀</h3>
+  <p><i>Fuel late-night commits & energy drinks ☕⚡</i></p>
   
-  <img src="Donate.png" width="180" style="border: 2px solid #00FFFF; border-radius: 10px; box-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF;" />
+  <img src="Donate.png" width="160" style="border: 3px solid #00FFCC; border-radius: 20px; box-shadow: 0 0 20px #00FFCC, 0 0 40px #FF00CC, inset 0 0 10px rgba(0,255,204,0.3);" />
   
-  <p><small>Scan QR Code to Donate</small></p>
+  <p><code>SCAN → DONATE → BECOME LEGEND</code></p>
   
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00FF,00FFFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=40&gradientColor=FF00CC,00FFCC&section=footer" />
 </div>
 
-<br/>
+---
 
+<!-- BOTTOM POSTER - UNCHANGED -->
 <div align="center">
   <img src="poster.png" width="100%" />
 </div>
+
+---
+
+<!-- SECRET EASTER EGG - HOVER OVER ME -->
+<p align="center">
+  <code>&lt;!-- YOU FOUND THE GLITCH. NOW BUILD THE FUTURE. --&gt;</code>
+</p>
