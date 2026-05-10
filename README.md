@@ -151,18 +151,28 @@
 
 <!-- DONATE QR CODE - HYPER NEON BORDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&gradientColor=00FFCC,FF00CC&section=header" />
+  <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00FFCC,FF00CC&section=header" />
   
   <h3>💀 <b>SUPPORT THE MADNESS</b> 💀</h3>
   <p><i>Fuel late-night commits & energy drinks ☕⚡</i></p>
   
-  <img src="Donate.png" width="160" style="border: 3px solid #00FFCC; border-radius: 20px; box-shadow: 0 0 20px #00FFCC, 0 0 40px #FF00CC, inset 0 0 10px rgba(0,255,204,0.3);" />
+  <br/>
   
-  <p><code>SCAN → DONATE → BECOME LEGEND</code></p>
+  <!-- QR Code Section with Neon Border -->
+  <img src="Donate.png" alt="Scan to Donate" width="160" style="border: 2px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 10px #00FFCC, 0 0 20px #FF00CC;" />
   
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=40&gradientColor=FF00CC,00FFCC&section=footer" />
+  <br/>
+  <br/>
+  
+  <code>SCAN → DONATE → BECOME LEGEND</code>
+  
+  <br/>
+  <br/>
+  
+  <!-- Footer Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00CC,00FFCC&section=footer" />
 </div>
-
 ---
 
 <!-- BOTTOM POSTER - UNCHANGED -->
