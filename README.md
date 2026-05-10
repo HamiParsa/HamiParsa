@@ -164,8 +164,6 @@
   <h3>💀 <b>SUPPORT THE MADNESS</b> 💀</h3>
   <p><i>Fuel late-night commits & energy drinks ☕⚡</i></p>
   
-  <br/>
-  
   <!-- QR Code Section with Neon Border -->
   <img src="Donate.png" alt="Scan to Donate" width="160" style="border: 2px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 10px #00FFCC, 0 0 20px #FF00CC;" />
   
