@@ -133,16 +133,18 @@
 <!-- CONNECT & DONATE - DARK NEON THEME -->
 <div align="center">
   
-### 🔗 <b>// DEPLOY YOUR CONNECTION</b>
+### 🔗 <b>// CONNECTION CHANNELS</b>
 
+<div align="center">
+  
 <a href="https://github.com/HamiParsa">
-  <img src="https://img.shields.io/badge/BLACK_OPS-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
 </a>
 <a href="https://t.me/HeroHami">
-  <img src="https://img.shields.io/badge/ENCRYPTED_CHAT-TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=00FFCC&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=0d1117"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
-  <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117"/>
 </a>
 
 </div>
