@@ -8,7 +8,6 @@
 
 <br/>
 
----
 
 <div align="center">
   <img src="https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=dark&border=00FFCC&glow=true" />
