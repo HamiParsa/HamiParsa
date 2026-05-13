@@ -22,24 +22,25 @@
 </div>
 
 <!-- SECTION: BADASS INTRO -->
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎯 <b>// CURRENT TARGET</b></h3>
       <ul>
-        <li>⚡ Mastering <code>Next.js 14+</code> & <code>TypeScript</code> like a weapon</li>
-        <li>🎯 On the path to <b>Full-Stack domination</b></li>
-        <li>🏗️ Building production-grade <b>real-world systems</b></li>
-        <li>🧠 <code>Learn</code> → <code>Build</code> → <code>Refactor</code> → <code>Ship or Die</code></li>
+        <li>⚡ <code>Next.js 15</code> + <code>TypeScript</code> — <b>on absolute fire</b></li>
+        <li>🎯 Pathfinding my way to <b>Full-Stack supremacy</b></li>
+        <li>🏗️ Building <b>unbreakable systems</b> that scale</li>
+        <li>🧠 <code>LEARN</code> → <code>BREAK</code> → <code>REBUILD</code> → <code>SHIP HARD</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 <b>// MISSION STATEMENT</b></h3>
+      <h3 align="center">🧠 <b>// MANIFESTO</b></h3>
       <blockquote>
-        <i>“I don't write websites. I build tools, platforms, and systems that solve real f***ing problems.”</i><br/><br/>
-        <b>Phase 1:</b> Master the craft 🔧<br/>
-        <b>Phase 2:</b> Build meaningful products 🚀<br/>
-        <b>Phase 3:</b> Disrupt the tech world 💣
+        <i>“Mediocrity is a disease. I write the cure — one component at a time.”</i><br/><br/>
+        <b>🔹 PHASE 01:</b> Master the craft<br/>
+        <b>🔹 PHASE 02:</b> Build weapons (apps)<br/>
+        <b>🔹 PHASE 03:</b> Change the game<br/>
+        <b>🔹 PHASE 04:</b> <i>Repeat.</i>
       </blockquote>
     </td>
   </tr>
