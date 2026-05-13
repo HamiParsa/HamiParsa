@@ -15,11 +15,14 @@
 </div>
 
 ---
+<br/>
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
+  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥Profile+Views&color=49796B&style=for-the-badge&base=1000" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
 </div>
 
 <!-- SECTION: BADASS INTRO -->
