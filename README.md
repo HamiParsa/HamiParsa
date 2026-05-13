@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=00B4D8,9D4EDD&stroke=1B1B1B" width="100%" />
 </div>
@@ -19,7 +20,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥Profile+Views&color=B8860B&style=for-the-badge&base=1000" />
+  
+  ![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=⭐%20Stars&logoColor=gold&color=2d2d2d)
+  ![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=gold&color=2d2d2d)
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
