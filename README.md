@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=00B4D8&center=true&vCenter=true&width=600&lines=>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
+  <img width="250px" src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" />
 </div>
 
 <div align="center">
-  <img width="400px" src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=00B4D8&center=true&vCenter=true&width=600&lines=>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
 </div>
 
 <div align="center">
