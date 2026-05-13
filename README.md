@@ -51,7 +51,7 @@
 <!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
   
-### 💀 <b>// WEAPONS OF CHOICE</b> 💀
+### 💀 <b> WEAPONS OF CHOICE</b> 💀
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
@@ -91,10 +91,10 @@
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=00FFCC&icon_color=FF00CC&text_color=CCFFFF&bg_color=0d1117&ring_color=00FFCC" width="280"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=DAA520&icon_color=DAA520&text_color=CCFFFF&bg_color=0d1117&ring_color=DAA520" width="280"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=00FFCC&fire=FF00CC&currStreakNum=CCFFFF&currStreakLabel=00FFCC&sideNums=CCFFFF&sideLabels=00FFCC&dates=88CCFF&background=0d1117" width="310"/>
+      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=DAA520&fire=DAA520&currStreakNum=DAA520&currStreakLabel=DAA520&sideNums=DAA520&sideLabels=DAA520&dates=88CCFF&background=0d1117" width="310"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=00FFCC&text_color=CCFFFF&bg_color=0d1117" width="250"/>
@@ -123,7 +123,7 @@
 <!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
   
-### 👾 <b>// COMMIT PAC-MAN // PAC-MAN COMMITS</b>
+### 👾 <b> COMMIT PAC-MAN // PAC-MAN COMMITS</b>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
@@ -138,7 +138,7 @@
 <!-- CONNECT & DONATE - DARK NEON THEME -->
 <div align="center">
   
-### 🔗 <b>// CONNECTION CHANNELS</b>
+### 🔗 <b> CONNECTION CHANNELS</b>
 
 <div align="center">
   
@@ -187,6 +187,6 @@
 </p>
 
 ---
-### 📊 // GitHub Analytics
+### 📊  GitHub Analytics
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&bg_color=0a0a1a&color=00d4ff&line=aa00ff&point=ff44cc&area=true&hide_border=true)
 
