@@ -53,14 +53,14 @@
   
 ### 💀 <b>// WEAPONS OF CHOICE</b> 💀
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
 
 </div>
 
