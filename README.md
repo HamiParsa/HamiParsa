@@ -97,7 +97,7 @@
       <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=DAA520&fire=DAA520&currStreakNum=DAA520&currStreakLabel=DAA520&sideNums=DAA520&sideLabels=DAA520&dates=88CCFF&background=0d1117" width="310"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=00FFCC&text_color=CCFFFF&bg_color=0d1117" width="250"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=DAA520&text_color=CCFFFF&bg_color=0d1117" width="250"/>
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@
 
 ---
 
-## 🏆 // ACHIEVEMENTS UNLOCKED
+## 🏆  ACHIEVEMENTS UNLOCKED
 
 <div align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="95%" />
@@ -123,7 +123,7 @@
 <!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
   
-### 👾 <b> COMMIT PAC-MAN // PAC-MAN COMMITS</b>
+### 👾 <b> COMMIT PAC-MAN - PAC-MAN COMMITS</b>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
