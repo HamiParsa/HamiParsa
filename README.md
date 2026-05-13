@@ -188,5 +188,5 @@
 
 ---
 ### 📊  GitHub Analytics
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&bg_color=02020c&color=DAA520&line=aa00ff&point=DAA520&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&bg_color=02020c&color=1abdd1&line=aa00ff&point=DAA520&area=true&hide_border=true)
 
