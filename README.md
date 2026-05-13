@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=FFD700,FF8C00" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=00B4D8,9D4EDD&stroke=1B1B1B" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2500&pause=400&color=00FFCC&center=true&vCenter=true&width=600&lines=Front-End+Developer;Future+Full-Stack;Tech+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=00B4D8&center=true&vCenter=true&width=600&lines=>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
 </div>
 
 <div align="center">
