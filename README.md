@@ -189,10 +189,11 @@
   <img src="poster.png" width="100%" />
 </div>
 
----
-### 📊 // GitHub Analytics
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=merko&hide_border=true&area=true)
-
 <p align="center">
   <code>&lt;!-- YOU FOUND THE GLITCH. NOW BUILD THE FUTURE. --&gt;</code>
 </p>
+
+---
+### 📊 // GitHub Analytics
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&bg_color=0a0a1a&color=00d4ff&line=aa00ff&point=ff44cc&area=true&hide_border=true)
+
