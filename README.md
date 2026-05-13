@@ -184,8 +184,9 @@
 </div>
 
 ---
+### 📊// GitHub Analytics
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=merko&hide_border=true&area=true)
 
-<!-- SECRET EASTER EGG - HOVER OVER ME -->
 <p align="center">
   <code>&lt;!-- YOU FOUND THE GLITCH. NOW BUILD THE FUTURE. --&gt;</code>
 </p>
