@@ -184,7 +184,7 @@
 </div>
 
 ---
-### 📊// GitHub Analytics
+### 📊 // GitHub Analytics
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=merko&hide_border=true&area=true)
 
 <p align="center">
