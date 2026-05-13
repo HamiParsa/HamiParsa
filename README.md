@@ -7,8 +7,9 @@
   <img src="baner.png" width="100%" alt="banner" />
 </div>
 
-<br/>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/refs/heads/master/spin.gif" />
+</div>
 
 <div align="center">
   <img src="https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=dark&border=00FFCC&glow=true" />
