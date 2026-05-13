@@ -25,7 +25,7 @@
 <table align="center" border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 <b>// CURRENT TARGET</b></h3>
+      <h3 align="center">🎯 <b> CURRENT TARGET</b></h3>
       <ul>
         <li>⚡ <code>Next.js 15</code> + <code>TypeScript</code> — <b>on absolute fire</b></li>
         <li>🎯 Pathfinding my way to <b>Full-Stack supremacy</b></li>
@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 <b>// MANIFESTO</b></h3>
+      <h3 align="center">🧠 <b> MANIFESTO</b></h3>
       <blockquote>
         <i>“Mediocrity is a disease. I write the cure — one component at a time.”</i><br/><br/>
         <b>🔹 PHASE 01:</b> Master the craft<br/>
