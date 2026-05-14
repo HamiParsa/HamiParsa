@@ -100,13 +100,13 @@
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=DAA520&icon_color=DAA520&text_color=CCFFFF&bg_color=0d1117&ring_color=DAA520" width="280"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=ff006e&icon_color=ff006e&text_color=CCFFFF&bg_color=0d1117&ring_color=ff006e" width="280"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=DAA520&fire=DAA520&currStreakNum=DAA520&currStreakLabel=88CCFF&sideNums=DAA520&sideLabels=88CCFF&dates=88CCFF&background=0d1117" width="310"/>
+      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=ff006e&fire=ff006e&currStreakNum=ff006e&currStreakLabel=88CCFF&sideNums=ff006e&sideLabels=88CCFF&dates=88CCFF&background=0d1117" width="310"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=DAA520&text_color=CCFFFF&bg_color=0d1117" width="250"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=ff006e&text_color=CCFFFF&bg_color=0d1117" width="250"/>
     </td>
   </tr>
 </table>
