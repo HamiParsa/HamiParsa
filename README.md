@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=00F5FF,FF006E&stroke=0A0A0F" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=00B4D8,9D4EDD&stroke=1B1B1B" width="100%" />
 </div>
 
 <div align="center">
@@ -7,25 +7,26 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=00F5FF&center=true&vCenter=true&width=600&lines=>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=00B4D8&center=true&vCenter=true&width=600&lines=>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=dark&border=00F5FF&glow=false" />
+  <img src="https://kgnio-profile-card.vercel.app/api/card?user=HamiParsa&theme=dark&border=00FFCC&glow=false" />
 </div>
 
 ---
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥Profile+Views&color=7000FF&style=for-the-badge&base=1000" />
+  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥Profile+Views&color=B8860B&style=for-the-badge&base=1000" />
   
-  ![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=⭐%20Stars&logoColor=00F5FF&color=0A0A0F)
-  ![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=00F5FF&color=0A0A0F)
+  ![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=⭐%20Stars&logoColor=gold&color=2d2d2d)
+  ![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=gold&color=2d2d2d)
 </div>
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00F5FF&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
 </div>
 
 <!-- SECTION: BADASS INTRO -->
@@ -60,14 +61,14 @@
   
 ### 💀 <b> WEAPONS OF CHOICE</b> 💀
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=DAA520&labelColor=0d1117&color=0d1117"/>
 
 </div>
 
@@ -79,12 +80,12 @@
 ### 💊 PROJECTS
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
-| **📱 My-Messenger** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0A0A0F?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/HamiParsa/My-Messenger) [![Live](https://img.shields.io/badge/DEMO-0A0A0F?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/My-Messenger/) |
-| **🚗 Tesla Configurator** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0A0A0F?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/HamiParsa/Tesla) [![Live](https://img.shields.io/badge/DEMO-0A0A0F?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Tesla/) |
-| **🎨 Art The Clown** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0A0A0F?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/HamiParsa/Art-The-Clown) [![Live](https://img.shields.io/badge/DEMO-0A0A0F?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Art-The-Clown/) |
-| **🎮 GTA San Andreas** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0A0A0F?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/HamiParsa/Gta-SanAndreas) [![Live](https://img.shields.io/badge/DEMO-0A0A0F?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Gta-SanAndreas/) |
-| **🎲 Rockstar Games** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0A0A0F?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/HamiParsa/Rockstar-Games) [![Live](https://img.shields.io/badge/DEMO-0A0A0F?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Rockstar-Games/) |
-| **👤 Portfolio** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0A0A0F?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/HamiParsa/Profile-Bio) [![Live](https://img.shields.io/badge/DEMO-0A0A0F?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Profile-Bio/) |
+| **📱 My-Messenger** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/My-Messenger) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/My-Messenger/) |
+| **🚗 Tesla Configurator** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Tesla) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Tesla/) |
+| **🎨 Art The Clown** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Art-The-Clown) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Art-The-Clown/) |
+| **🎮 GTA San Andreas** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Gta-SanAndreas) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Gta-SanAndreas/) |
+| **🎲 Rockstar Games** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Rockstar-Games) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Rockstar-Games/) |
+| **👤 Portfolio** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Profile-Bio) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Profile-Bio/) |
 
 </div>
 
@@ -98,13 +99,13 @@
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=FF006E&icon_color=00F5FF&text_color=E0E0E0&bg_color=0A0A0F&ring_color=FF006E" width="280"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=ff006e&icon_color=ff006e&text_color=CCFFFF&bg_color=0d1117&ring_color=ff006e" width="280"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=FF006E&fire=FF006E&currStreakNum=FF006E&currStreakLabel=00F5FF&sideNums=FF006E&sideLabels=00F5FF&dates=00F5FF&background=0A0A0F" width="310"/>
+      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=ff006e&fire=ff006e&currStreakNum=ff006e&currStreakLabel=88CCFF&sideNums=ff006e&sideLabels=88CCFF&dates=88CCFF&background=0d1117" width="310"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=FF006E&text_color=E0E0E0&bg_color=0A0A0F" width="250"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=ff006e&text_color=CCFFFF&bg_color=0d1117" width="250"/>
     </td>
   </tr>
 </table>
@@ -127,7 +128,7 @@
 
 ---
 
-<!-- PACMAN CONTRIBUTION GRAPH -->
+<!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
   
 ### 👾 <b> COMMIT PAC-MAN - PAC-MAN COMMITS</b>
@@ -150,13 +151,13 @@
 <div align="center">
   
 <a href="https://github.com/HamiParsa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&color=0A0A0F"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ECECEC&color=0d1117"/>
 </a>
 <a href="https://t.me/HeroHami">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=00F5FF&color=0A0A0F"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ECECEC&color=0d1117"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&color=0A0A0F"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ECECEC&color=0d1117"/>
 </a>
 
 </div>
@@ -166,24 +167,25 @@
 <!-- DONATE QR CODE - HYPER NEON BORDER -->
 <div align="center">
   <!-- Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00F5FF,FF006E&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00FFCC,FF00CC&section=header" />
   
   <h3>💀 <b>SUPPORT THE MADNESS</b> 💀</h3>
   <p><i>Fuel late-night commits & energy drinks ☕⚡</i></p>
   
   <!-- QR Code Section with Neon Border -->
-  <img src="Donate.png" alt="Scan to Donate" width="160" style="border: 2px solid #00F5FF; border-radius: 10px; box-shadow: 0 0 10px #00F5FF, 0 0 20px #FF006E;" />
+  <img src="Donate.png" alt="Scan to Donate" width="160" style="border: 2px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 10px #00FFCC, 0 0 20px #FF00CC;" />
   
   <code>SCAN → DONATE → BECOME LEGEND</code>
   
   <!-- Footer Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF006E,00F5FF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00CC,00FFCC&section=footer" />
 </div>
 
 <br/>
 <br/>
 
-<!-- BOTTOM POSTER -->
+
+<!-- BOTTOM POSTER - UNCHANGED -->
 <div align="center">
   <img src="poster.png" width="100%" />
 </div>
@@ -194,4 +196,4 @@
 
 ---
 ### 📊  GitHub Analytics
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&bg_color=0A0A0F&color=00F5FF&line=FF006E&point=7000FF&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&bg_color=0a0a0f&color=ffd700&line=ffaa00&point=ffec80&area=true&hide_border=true)
