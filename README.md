@@ -154,7 +154,7 @@
 <a href="https://github.com/HamiParsa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ECECEC&color=0d1117"/>
 </a>
-<a href="https://t.me/HeroHami">
+<a href="https://t.me/HamiParsa">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ECECEC&color=0d1117"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
