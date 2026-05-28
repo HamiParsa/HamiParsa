@@ -19,10 +19,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥Profile+Views&color=B8860B&style=for-the-badge&base=1000" />
+  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥%20Profile%20Views&color=0d1117&style=for-the-badge&base=1000&labelColor=FFD700" />
   
-  ![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=★%20Stars&logoColor=FFD700&color=FF2E63&labelColor=0d1117)
-  ![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=gold&color=2d2d2d)
+  ![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=★%20Stars&logoColor=FFD700&color=0d1117)
+  ![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=FFD700&color=0d1117)
 </div>
 
 
