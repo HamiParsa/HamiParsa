@@ -100,13 +100,13 @@
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=FF2E63&icon_color=FF2E63&text_color=EAEAEA&bg_color=0d1117&ring_color=FF2E63" width="280"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamiParsa&show_icons=true&theme=radical&hide_border=true&title_color=5D9FFF&icon_color=5D9FFF&text_color=FFFFFF&bg_color=0d1117&ring_color=5D9FFF" width="280"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=FF2E63&fire=FF2E63&currStreakNum=FF2E63&currStreakLabel=FF2E63&sideNums=FF2E63&sideLabels=EAEAEA&dates=EAEAEA&background=0d1117" width="310"/>
+      <img src="https://streak-stats.demolab.com?user=HamiParsa&theme=radical&hide_border=true&ring=5D9FFF&fire=5D9FFF&currStreakNum=5D9FFF&currStreakLabel=5D9FFF&sideNums=5D9FFF&sideLabels=FFFFFF&dates=FFFFFF&background=0d1117" width="310"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=FF2E63&text_color=EAEAEA&bg_color=0d1117" width="250"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&layout=compact&title_color=5D9FFF&text_color=FFFFFF&bg_color=0d1117" width="250"/>
     </td>
   </tr>
 </table>
