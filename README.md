@@ -116,7 +116,7 @@
 ## 🏆  ACHIEVEMENTS UNLOCKED
 
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="80%" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=darkhub&no-frame=false&no-bg=false&row=1&column=6&margin-w=8&margin-h=8&title_color=FF2E63&border_color=FF2E63" width="80%" />
 </div>
 
 <br/>
