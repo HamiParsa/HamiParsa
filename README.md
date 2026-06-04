@@ -158,6 +158,9 @@
 <a href="https://www.linkedin.com/in/HamiParsa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ECECEC&color=0d1117"/>
 </a>
+<a href="https://www.instagram.com/hamii.parsa">
+  <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=ECECEC&color=0d1117"/>
+</a>
 
 </div>
 
