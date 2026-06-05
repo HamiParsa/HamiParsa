@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥%20Profile%20Views&color=0d1117&style=for-the-badge&base=1000&labelColor=FFD700" />
   
   ![Total Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&label=%E2%AD%90&color=0d1117&logoColor=FFD700)
-  ![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=FFD700&color=0d1117)
+  ![GitHub Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=FFD700&color=0d1117&url=https://api.github.com/users/HamiParsa&query=%24.followers)
 </div>
 
 
