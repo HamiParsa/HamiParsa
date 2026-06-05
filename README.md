@@ -73,6 +73,37 @@
 ✨ **A simple star means a lot to Vida! Show your support today** ✨
 
 ---
+
+## 🌐 My Personal Websites
+
+> To learn more about me and see my portfolio, feel free to visit my websites below:
+
+<br>
+
+<div align="center">
+
+### 🧑‍💻 About Me Website
+
+[![About Me Website](https://img.shields.io/badge/🌐_About_Me-蓝色?style=for-the-badge&logo=google-chrome&logoColor=white&color=0EA5E9)](https://hamiparsa.github.io/About-Me/)
+
+*Get to know me better — my journey, skills, and passions*
+
+<br>
+
+### 🚀 Projects Portfolio
+
+[![Projects Website](https://img.shields.io/badge/📁_Projects_Portfolio-绿色?style=for-the-badge&logo=google-chrome&logoColor=white&color=10B981)](https://hamiparsa.github.io/Profile-Bio/)
+
+*Explore my work, case studies, and creative projects*
+
+</div>
+
+<br>
+
+---
+
+✨ **Check out both sites to see what I've been building!** ✨
+
 <div align="center">
 
 <div align="center">
