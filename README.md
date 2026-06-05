@@ -339,25 +339,41 @@ A modern web experience inspired by Rockstar's design language.
 
 <!-- DONATE QR CODE - HYPER NEON BORDER -->
 <div align="center">
-  <!-- Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=00FFCC,FF00CC&section=header" />
-  
-  <h3>💀 <b>SUPPORT THE MADNESS</b> 💀</h3>
-  <p><i>Fuel late-night commits & energy drinks ☕⚡</i></p>
-  
-  <!-- QR Code Section with Neon Border -->
-  <img src="Donate.png" alt="Scan to Donate" width="160" style="border: 2px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 10px #00FFCC, 0 0 20px #FF00CC;" />
-  
-  <code>SCAN → DONATE → BECOME LEGEND</code>
-  
-  <!-- Footer Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=30&gradientColor=FF00CC,00FFCC&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=0A0A0A,1A1A2E&section=header" />
+
+# 💰 DONATE 💰
+
+> 🥂Fuel late-night commits & energy drinks 🍺
+
+<img src="Donate.png" width="150">
+
+**📱 SCAN → 💸 DONATE → 🏆 SUPPORT**
+
+
+### 🇮🇷 RIAL SUPPORT ONLY 🇮🇷
+
+*💳 Support via Iranian Rial is the only available method*
+
+| 🏦 Method | 💚 Status |
+|-----------|-----------|
+| 💳 Credit Card | ❌ Not Available |
+| ₿ Crypto | ❌ Not Available |
+| **Iranian Rial (IRR)** | ✅ **ONLY** |
+
+<br>
+
+
+
+<br>
+
+💚 **Thank you for your support** 💚
+
 </div>
 
-<br/>
-<br/>
-
 ---
+
+<br/>
 
 <!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
