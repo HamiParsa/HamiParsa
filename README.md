@@ -86,19 +86,51 @@
 
 <!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
-  
-### 💀 <b> WEAPONS OF CHOICE</b> 💀
+<h2 align="center">⚡ TECH STACK ⚡</h2>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0d1117&color=0d1117"/>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>
+<b>Next.js</b>
+</td>
 
-</div>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>
+<b>TS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+<b>Tailwind</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux" width="48"/><br>
+<b>Redux</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>
+<b>Vercel</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<b>VSCode</b>
+</td>
+</tr>
+</table>
 
 ---
 
