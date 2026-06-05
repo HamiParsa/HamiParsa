@@ -196,13 +196,13 @@ A modern web experience inspired by Rockstar's design language.
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=HamiParsa&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="300"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=HamiParsa&theme=nord&hide_border=true&include_all_commits=false&count_private=false" width="300"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=HamiParsa&theme=radical&hide_border=true" width="310"/>
+      <img src="https://streak-stats.demolab.com/?user=HamiParsa&theme=nord&hide_border=true" width="310"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="270"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="270"/>
     </td>
   </tr>
 </table>
