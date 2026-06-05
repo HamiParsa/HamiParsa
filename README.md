@@ -193,8 +193,6 @@ A modern web experience inspired by Rockstar's design language.
   
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
@@ -204,7 +202,7 @@ A modern web experience inspired by Rockstar's design language.
       <img src="https://streak-stats.demolab.com/?user=HamiParsa&theme=dark&hide_border=true" width="310"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="270"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=github_dark&hide_border=true&layout=compact" width="270"/>
     </td>
   </tr>
 </table>
@@ -214,7 +212,7 @@ A modern web experience inspired by Rockstar's design language.
 ## 🏆  ACHIEVEMENTS UNLOCKED
 
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="80%" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="80%" />
 </div>
 
 <br/>
