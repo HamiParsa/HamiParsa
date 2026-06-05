@@ -47,8 +47,30 @@
 <a href="https://github-languages-card.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
-
 </p>
+
+## 🚀 Support the Repository Owner
+
+> If you find this repository useful, please **give it a star ⭐** and **follow the creator on GitHub** 🔔 — **Vida Khoshpey (vidatwin)**
+
+<br>
+
+<div align="center">
+
+### 👇 View Repository
+
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-Orange?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/VIDAKHOSHPEY22/github-languages-card)
+
+### 👨‍💻 View Creator's GitHub
+
+[![View Creator's GitHub](https://img.shields.io/badge/👤_GitHub_Creator-Purple?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2)](https://github.com/VIDAKHOSHPEY22)
+
+</div>
+
+<br>
+
+
+✨ **A simple star means a lot to Vida! Show your support today** ✨
 
 ---
 <div align="center">
