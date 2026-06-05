@@ -145,7 +145,7 @@
 ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
+  <img src="/matrix.gif" width="700px" alt="Matrix" />
 </div>
 
 <!-- SECTION: BADASS INTRO -->
