@@ -221,22 +221,7 @@ A modern web experience inspired by Rockstar's design language.
   <code>🏆 TROPHY_CASE: FULL_WIDTH / MAXIMUM_GLORY 🏆</code>
 </div>
 
----
 
-<!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
-<div align="center">
-  
-### 👾 <b> COMMIT PAC-MAN - PAC-MAN COMMITS</b>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
 
 <!-- CONNECT & DONATE - DARK NEON THEME -->
 <div align="center">
@@ -281,15 +266,20 @@ A modern web experience inspired by Rockstar's design language.
 <br/>
 <br/>
 
+---
 
-<!-- BOTTOM POSTER - UNCHANGED -->
+<!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
-  <img src="poster.png" width="100%" />
-</div>
+  
+### 👾 <b> COMMIT PAC-MAN - PAC-MAN COMMITS</b>
 
-<p align="center">
-  <code>&lt;!-- YOU FOUND THE GLITCH. NOW BUILD THE FUTURE. --&gt;</code>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 ### 📊  GitHub Analytics
