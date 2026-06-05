@@ -155,19 +155,36 @@ The real objective is to become an engineer capable of understanding the entire 
 ---
 
 <!-- PROJECTS: NEON GRID STYLE -->
-<div align="center">
 
-### 💊 PROJECTS
-| Project | Tech Stack | Status |
-|---------|-----------|--------|
-| **📱 My-Messenger** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/My-Messenger) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/My-Messenger/) |
-| **🚗 Tesla Configurator** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Tesla) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Tesla/) |
-| **🎨 Art The Clown** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Art-The-Clown) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Art-The-Clown/) |
-| **🎮 GTA San Andreas** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Gta-SanAndreas) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Gta-SanAndreas/) |
-| **🎲 Rockstar Games** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Rockstar-Games) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Rockstar-Games/) |
-| **👤 Portfolio** | Next.js · Tailwind · TS | [![Repo](https://img.shields.io/badge/CODE-0a0a0a?style=flat-square&logo=github&logoColor=00B4D8)](https://github.com/HamiParsa/Profile-Bio) [![Live](https://img.shields.io/badge/DEMO-0a0a0a?style=flat-square&logo=vercel&logoColor=FF006E)](https://hamiparsa.github.io/Profile-Bio/) |
+## ⚡ Project Arsenal
 
-</div>
+### 📱 My Messenger
+Modern messaging experience crafted with Next.js & TypeScript.
+
+🔗 [Repository](https://github.com/HamiParsa/My-Messenger) • 🌐 [Live Demo](https://hamiparsa.github.io/My-Messenger/)
+
+---
+
+### 🚗 Tesla Configurator
+Interactive vehicle configuration experience inspired by Tesla.
+
+🔗 [Repository](https://github.com/HamiParsa/Tesla) • 🌐 [Live Demo](https://hamiparsa.github.io/Tesla/)
+
+---
+
+### 🎮 GTA San Andreas
+A fan-made tribute recreating the atmosphere of a legendary game.
+
+🔗 [Repository](https://github.com/HamiParsa/Gta-SanAndreas) • 🌐 [Live Demo](https://hamiparsa.github.io/Gta-SanAndreas/)
+
+---
+
+### 🎲 Rockstar Games
+A modern web experience inspired by Rockstar's design language.
+
+🔗 [Repository](https://github.com/HamiParsa/Rockstar-Games) • 🌐 [Live Demo](https://hamiparsa.github.io/Rockstar-Games/)
+
+
 
 ---
 
