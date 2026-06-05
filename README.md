@@ -20,7 +20,10 @@
 
 <div align="center">
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
+<h2>
+  
+  ![](https://img.shields.io/badge/⬜-white?style=flat&logo=github&logoColor=black&labelColor=white) GitHub Languages Card
+</h2>
 
 <p align="center">
   <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
