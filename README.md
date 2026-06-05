@@ -58,29 +58,49 @@
 </div>
 
 <!-- SECTION: BADASS INTRO -->
-<table align="center" border="0" cellpadding="12" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 <b> CURRENT TARGET</b></h3>
-      <ul>
-        <li>⚡ <code>Next.js 15</code> + <code>TypeScript</code> — <b>on absolute fire</b></li>
-        <li>🎯 Pathfinding my way to <b>Full-Stack supremacy</b></li>
-        <li>🏗️ Building <b>unbreakable systems</b> that scale</li>
-        <li>🧠 <code>LEARN</code> → <code>BREAK</code> → <code>REBUILD</code> → <code>SHIP HARD</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 <b> MANIFESTO</b></h3>
-      <blockquote>
-        <i>“Mediocrity is a disease. I write the cure — one component at a time.”</i><br/><br/>
-        <b>🔹 PHASE 01:</b> Master the craft<br/>
-        <b>🔹 PHASE 02:</b> Build weapons (apps)<br/>
-        <b>🔹 PHASE 03:</b> Change the game<br/>
-        <b>🔹 PHASE 04:</b> <i>Repeat.</i>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+
+
+<div align="left">
+  
+  ## 🚀 About Me
+
+I'm a **Front-End Developer** driven by a passion for building digital experiences that feel seamless, purposeful, and impactful.
+
+What began as curiosity about how websites work evolved into a constant pursuit of understanding how great software is designed, engineered, and scaled.
+
+🧩 My current mission is expanding beyond the frontend and growing into **Full-Stack Engineering** — learning not only how interfaces are crafted, but also how systems are architected, data is managed, and applications perform at scale.
+
+💡 I enjoy transforming ideas into products, solving complex problems, and continuously challenging myself with technologies that push me outside my comfort zone.
+
+### ⚡ Currently Focused On
+
+- 🔷 Next.js & TypeScript
+- 🏗️ Full-Stack Web Development
+- 🧠 Software Architecture & System Design
+- ⚙️ Backend Technologies & Databases
+- 🚀 Building Production-Ready Applications
+
+### 🎯 Long-Term Vision
+
+For me, becoming a Full-Stack Developer is not the destination.
+
+It's a milestone.
+
+The real objective is to become an engineer capable of understanding the entire picture — from user experience to infrastructure — and turning ambitious ideas into products that create real impact.
+
+### 🔥 Mindset
+
+- 📚 Stay curious
+- 🛠️ Build relentlessly
+- 🎯 Focus on mastery
+- 📈 Improve every day
+- ⚡ Never stop evolving
+
+> "The goal isn't to learn every technology.
+>
+> The goal is to become the kind of engineer who can learn any technology when the challenge demands it."
+</div>
+
 
 ---
 
