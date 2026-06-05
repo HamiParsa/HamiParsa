@@ -109,6 +109,41 @@
 
 <div align="center">
 
+## 🏆 Iran's GitHub Rising Star
+
+> **HamiParsa (Hami)** is one of the most active developers in Iran's GitHub community.
+
+<br>
+
+<div align="center">
+
+### 🌟 National Ranking 🌟
+
+[![committers.top badge](https://user-badge.committers.top/iran/HamiParsa.svg)](https://user-badge.committers.top/iran/HamiParsa)
+
+#### HamiParsa ranks **#31** in Iran with **894 contributions** in the past year
+
+<br>
+
+[![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?label=Followers&style=social)](https://github.com/HamiParsa)
+[![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?label=Stars&style=social)](https://github.com/HamiParsa)
+
+</div>
+
+<br>
+
+### 💎 Why Support HamiParsa?
+
+- **Consistent Activity:** Ranking among the top 50 developers in Iran shows dedication and hard work.
+- **Open Source Contributor:** Every contribution helps make the open-source ecosystem stronger.
+- **Inspiration to Others:** Active developers like Hami inspire the next generation of coders.
+
+<br>
+
+---
+
+✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
 </div>
