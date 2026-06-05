@@ -1,5 +1,12 @@
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥%20Profile%20Views&color=0d1117&style=for-the-badge&base=1000&labelColor=FFD700" />
+  
+  ![Total Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&label=%E2%AD%90%20Total%20Stars&color=FFD700&labelColor=0d1117)![GitHub Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=👥%20Followers&color=FFD700&labelColor=0d1117&url=https://api.github.com/users/HamiParsa&query=%24.followers)
+</div>
+<br/>
+<br/>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=00B4D8,9D4EDD&stroke=1B1B1B" width="100%" />
 </div>
 
@@ -45,17 +52,6 @@
 
 ---
 <div align="center">
-
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥%20Profile%20Views&color=0d1117&style=for-the-badge&base=1000&labelColor=FFD700" />
-  
-  ![Total Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&label=%E2%AD%90&color=0d1117&logoColor=FFD700)
-  ![GitHub Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=👥%20Followers&logoColor=FFD700&color=0d1117&url=https://api.github.com/users/HamiParsa&query=%24.followers)
-</div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=30&duration=2000&pause=50&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=0101010101;1010101010;0101010101;1010101010;0101010101" alt="Matrix" />
