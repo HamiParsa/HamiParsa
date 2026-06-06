@@ -11,11 +11,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=00B4D8&center=true&vCenter=true&width=600&lines=>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hami+Parsa;>_+Front-End+Architect;>_+Full-Stack+in+Progress;>_+Digital+Weapon+Smith" alt="Typing SVG" />
 </div>
 
 <div align="center">
-
 <h2>
   
   ![](https://img.shields.io/badge/⬜-white?style=flat&logo=github&logoColor=black&labelColor=white) GitHub Languages Card
