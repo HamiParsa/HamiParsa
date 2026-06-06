@@ -305,7 +305,7 @@ A modern web experience inspired by Rockstar's design language.
 <!-- STATS SECTION WITH CUSTOM CSS -->
 <div align="center">
   
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
