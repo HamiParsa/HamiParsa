@@ -514,4 +514,5 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 
 ---
 ### 📊  GitHub Analytics
+![HamiParsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamiParsa&theme=github_dark)
