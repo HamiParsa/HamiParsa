@@ -151,7 +151,7 @@
 ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
 
 <div align="center">
-  <img src="/matrix.gif" width="100%" height="350px" alt="Matrix" />
+  <img src="/logo.png" width="100%" height="350px" alt="logo" />
 </div>
 
 <!-- SECTION: BADASS INTRO -->
