@@ -12,12 +12,9 @@
 </div>
 <br/>
 <br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=HAMI%20PARSA&fontSize=42&fontAlignY=45&descAlignY=70&gradientColor=00B4D8,9D4EDD&stroke=1B1B1B" width="100%" />
-</div>
 
 <div align="center">
-  <img width="250px" src="hi.gif" />
+  <img width="500px" src="hi.gif" />
 </div>
 
 <div align="center">
