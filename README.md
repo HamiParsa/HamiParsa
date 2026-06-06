@@ -275,6 +275,13 @@ A sleek and interactive music player experience, mimicking the vibe of Spotify.
 
 ---
 
+### 📱 Phone Music Player
+Mobile-optimized music player with playlist management, search, progress bar, and animated starry background.
+
+<code>📁 [Repository](https://github.com/HamiParsa/Phone-Music-Player)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Phone-Music-Player/)</code>
+
+---
+
 ### 🌌 Galaxy Project
 Explore the universe — interactive galaxies, stars, and constellations with immersive animations.
 
@@ -391,9 +398,6 @@ Interactive fan website showcasing Eminem's biography, albums, news, and ticket 
 Modern second-hand marketplace to post, browse, edit, and manage product listings.
 
 <code>📁 [Repository](https://github.com/HamiParsa/Second-Hand-Shop)</code> • <code>🔮 [Live](https://delightful-wisp-111a27.netlify.app/)</code>
-
-
-
 
 ---
 
