@@ -4,17 +4,10 @@
 <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=gold" />
 <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=blue" width="auto" />
 <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=E74C3C&style=for-the-badge&label=TOTAL%20VIEWS" />
-
-
-<br/>
-
 </div>
-</div>
-<br/>
-<br/>
 
 <div align="center">
-  <img width="500px" src="hi.gif" />
+  <img width="650px" src="hi.gif" />
 </div>
 
 <div align="center">
