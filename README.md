@@ -159,45 +159,69 @@
 
 <div align="left">
   
-  ## 🚀 About Me
+## 🧑‍🚀 About Me
 
-I'm a **Front-End Developer** driven by a passion for building digital experiences that feel seamless, purposeful, and impactful.
-
-What began as curiosity about how websites work evolved into a constant pursuit of understanding how great software is designed, engineered, and scaled.
-
-🧩 My current mission is expanding beyond the frontend and growing into **Full-Stack Engineering** — learning not only how interfaces are crafted, but also how systems are architected, data is managed, and applications perform at scale.
-
-💡 I enjoy transforming ideas into products, solving complex problems, and continuously challenging myself with technologies that push me outside my comfort zone.
-
-### ⚡ Currently Focused On
-
-- 🔷 Next.js & TypeScript
-- 🏗️ Full-Stack Web Development
-- 🧠 Software Architecture & System Design
-- ⚙️ Backend Technologies & Databases
-- 🚀 Building Production-Ready Applications
-
-### 🎯 Long-Term Vision
-
-For me, becoming a Full-Stack Developer is not the destination.
-
-It's a milestone.
-
-The real objective is to become an engineer capable of understanding the entire picture — from user experience to infrastructure — and turning ambitious ideas into products that create real impact.
-
-### 🔥 Mindset
-
-- 📚 Stay curious
-- 🛠️ Build relentlessly
-- 🎯 Focus on mastery
-- 📈 Improve every day
-- ⚡ Never stop evolving
-
-> "The goal isn't to learn every technology.
->
-> The goal is to become the kind of engineer who can learn any technology when the challenge demands it."
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%94%A5+Full-Stack+in+Progress;%F0%9F%8E%AF+Builder+of+cool+things;%F0%9F%9A%80+Beyond+just+%22Web+Developer%22" alt="Typing SVG" />
+  
 </div>
 
+<br/>
+
+Hey there! 👋 I'm a **Front-End Developer** who refuses to stay in the front yard. 
+
+I build slick, user-first interfaces — but my eyes are locked on the **bigger picture**. I'm on a mission to become a **Full-Stack Engineer** who doesn't just "make things work", but builds things that **scale, perform, and impress**.
+
+🧠 I don't want to be just a "Web Developer". I want to be the person who can take a wild idea — whether it's a dashboard, a tool, a platform, or the next weird startup — and turn it into a **real, living, breathing product**.
+
+<br/>
+
+### 🔥 What I'm grinding on right now
+
+`⚡ Next.js` &nbsp;&nbsp; `🎨 Tailwind` &nbsp;&nbsp; `🧠 TypeScript` &nbsp;&nbsp; `🏗️ Next.Js` &nbsp;&nbsp; `🐘 Supabase` &nbsp;&nbsp; `☁️ Vercel`
+
+<br/>
+
+### 🎯 The Real Goal
+
+> Not just "Full-Stack".  
+> **Full understanding.**  
+> From **pixels to databases**, from **user feels to server loads**.
+
+I want to look at any problem — frontend, backend, logic, architecture — and think:  
+*"Yeah, I got this."*
+
+<br/>
+
+### 🧠 My Code-Soul Vibes
+
+| 🔍 Curiosity | 🛠️ Building | 🎯 Focus | 📈 Growth | ⚡ Grit |
+|--------------|-------------|----------|------------|---------|
+| Ask "why" | Ship often | Master slowly | Get better daily | Never stop |
+
+<br/>
+
+### 🌌 Beyond the Code
+
+When I'm not chasing the next commit, you'll probably find me:
+
+- 🎧 Deep into a coding playlist (synthwave + lo-fi = ❤️)
+- ☕ Over-caffeinating and overthinking
+- 🤯 Breaking things just to fix them again
+
+<br/>
+
+<div align="center">
+  
+  *"I don't want to learn every framework.*  
+  *I want to be the kind of engineer who can learn whatever it takes to ship something legendary."*
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer&gradientColor=00E5FF,FF00CC&text=🚀%20READY%20FOR%20THE%20NEXT%20LEVEL&fontSize=16&fontColor=white&animation=twinkling" />
+
+</div>
 
 ---
 
