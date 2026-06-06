@@ -1,8 +1,14 @@
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamiParsa&label=🔥%20Profile%20Views&color=0d1117&style=for-the-badge&base=1000&labelColor=FFD700" />
-  
-  ![Total Stars](https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&label=%E2%AD%90%20Total%20Stars&color=FFD700&labelColor=0d1117)![GitHub Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=👥%20Followers&color=FFD700&labelColor=0d1117&url=https://api.github.com/users/HamiParsa&query=%24.followers)
+
+<img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=gold" />
+<img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=blue" width="auto" />
+<img src="https://komarev.com/ghpvc/?username=HamiParsa&color=E74C3C&style=for-the-badge&label=TOTAL%20VIEWS" />
+
+
+<br/>
+
+</div>
 </div>
 <br/>
 <br/>
@@ -297,7 +303,7 @@ A modern web experience inspired by Rockstar's design language.
 ## 🏆  ACHIEVEMENTS UNLOCKED
 
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="80%" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="80%" />
 </div>
 
 <br/>
@@ -306,6 +312,7 @@ A modern web experience inspired by Rockstar's design language.
   <code>🏆 TROPHY_CASE: FULL_WIDTH / MAXIMUM_GLORY 🏆</code>
 </div>
 
+---
 
 
 <!-- CONNECT & DONATE - DARK NEON THEME -->
