@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img width="250px" src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" />
+  <img width="250px" src="hi.gif" />
 </div>
 
 <div align="center">
