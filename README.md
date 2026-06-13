@@ -149,60 +149,81 @@
 <div align="left">
   
 ## 🧑‍🚀 About Me
-<br/>
 
-Hey there! 👋 I'm a **Front-End Developer** who refuses to stay in the front yard. 
+Hey there! 👋 I'm a **Full-Stack Developer**.
 
-I build slick, user-first interfaces — but my eyes are locked on the **bigger picture**. I'm on a mission to become a **Full-Stack Engineer** who doesn't just "make things work", but builds things that **scale, perform, and impress**.
+From database down to the last pixel, from authentication to animation — I own the whole stack. And I'm just getting started.
 
-🧠 I don't want to be just a "Web Developer". I want to be the person who can take a wild idea — whether it's a dashboard, a tool, a platform, or the next weird startup — and turn it into a **real, living, breathing product**.
-
-<br/>
-
-### 🔥 What I'm grinding on right now
-
-`⚡ Next.js` &nbsp;&nbsp; `🎨 Tailwind` &nbsp;&nbsp; `🧠 TypeScript` &nbsp;&nbsp; `🏗️ Next.Js` &nbsp;&nbsp; `🐘 Supabase` &nbsp;&nbsp; `☁️ Vercel`
+🧠 I don't chase trends. I set the pace. Give me a wild idea, a weird problem, or a broken system — I'll turn it into a **living, breathing, high-performance product**.
 
 <br/>
 
-### 🎯 The Real Goal
+### 🚨 What's cooking (Coming Soon)
 
-> Not just "Full-Stack".  
-> **Full understanding.**  
-> From **pixels to databases**, from **user feels to server loads**.
+> I'm working on some **next-level** stuff.  
+> Things that bend the rules. Things that make you go *"damn"*.
 
-I want to look at any problem — frontend, backend, logic, architecture — and think:  
-*"Yeah, I got this."*
-
-<br/>
-
-### 🧠 My Code-Soul Vibes
-
-| 🔍 Curiosity | 🛠️ Building | 🎯 Focus | 📈 Growth | ⚡ Grit |
-|--------------|-------------|----------|------------|---------|
-| Ask "why" | Ship often | Master slowly | Get better daily | Never stop |
-
-<br/>
-
-### 🌌 Beyond the Code
-
-When I'm not chasing the next commit, you'll probably find me:
-
-- 🎧 Deep into a coding playlist (synthwave + lo-fi = ❤️)
-- ☕ Over-caffeinating and overthinking
-- 🤯 Breaking things just to fix them again
+`⚡ Supercharged Full-Stack Tools` &nbsp;&nbsp; `🎯 Secret Projects`  
+`🧠 New Architecture Patterns` &nbsp;&nbsp; `🔥 Something Unexpected`
 
 <br/>
 
 <div align="center">
   
-  *"I don't want to learn every framework.*  
-  *I want to be the kind of engineer who can learn whatever it takes to ship something legendary."*
+  *⏳* **COMING SOON** *⏳*
+
+</div>
+
+<br/>
+
+### 🎯 My Vibe Now
+
+> **Full-Stack on the hunt.**  
+> From **database design to micro-interactions**, from **serverless to edge**.
+
+I don't wait for permission to build awesome things. I just build them.
+
+<br/>
+
+### 🧠 My Code-Soul
+
+| 🔍 Curiosity | 🛠️ Building | 🎯 Precision | 🚀 Shipping | ⚡ Hunger |
+|--------------|-------------|-------------|-------------|-----------|
+| Break to learn | Ship or die | Master details | Move fast | Never satisfied |
+
+<br/>
+
+### 🌌 Beyond the Code
+
+When I'm not architecting full-stack solutions or cooking up surprises:
+
+- 🎧 Deep coding sessions (synthwave, cinematic, high-energy)
+- ☕ Fueled by coffee and curiosity
+- 💥 Breaking boundaries, not just code
+
+<br/>
+
+### 🔮 What's Next?
+
+I'm leveling up in silence right now.  
+
+But when I speak again...  
+**You'll hear it.**
+
+<br/>
+
+<div align="center">
+  
+  *"It doesn't end at Full-Stack.*  
+  *There's so much more to build, so many mountains left to climb.*  
+  ***My journey has only begun.***"
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer&gradientColor=00E5FF,FF00CC&text=🚀%20READY%20FOR%20THE%20NEXT%20LEVEL&fontSize=16&fontColor=white&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer&gradientColor=00E5FF,FF00CC&text=⚡%20FULL-STACK%20MODE%20ACTIVATED%20⚡&fontSize=16&fontColor=white&animation=twinkling" />
 
+  <br/>
+  
 </div>
 
 ---
