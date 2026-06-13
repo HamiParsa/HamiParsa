@@ -265,13 +265,18 @@ But when I speak again...
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<b>VSCode</b>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>
 <b>Vercel</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
-<b>VSCode</b>
+<img src="https://skillicons.dev/icons?i=netlify" width="48"/><br>
+<b>Netlify</b>
 </td>
 
 <td align="center">
