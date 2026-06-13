@@ -252,6 +252,11 @@ When I'm not chasing the next commit, you'll probably find me:
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
 <b>VSCode</b>
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="48"/><br>
+<b>Supabase</b>
+</td>
 </tr>
 </table>
 
