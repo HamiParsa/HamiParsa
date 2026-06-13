@@ -499,7 +499,7 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 **📱 SCAN → 💸 DONATE → 🏆 SUPPORT**
 
 
-### 🇮🇷 RIAL SUPPORT ONLY 🇮🇷
+### RIAL SUPPORT ONLY 
 
 *💳 Support via Iranian Rial is the only available method*
 
