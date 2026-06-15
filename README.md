@@ -116,12 +116,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/iran/HamiParsa.svg)](https://user-badge.committers.top/iran/HamiParsa)
 
-#### HamiParsa ranks **#31** in Iran with **894 contributions** in the past year
+
 
 <br>
-
-[![GitHub Followers](https://img.shields.io/github/followers/HamiParsa?label=Followers&style=social)](https://github.com/HamiParsa)
-[![GitHub Stars](https://img.shields.io/github/stars/HamiParsa?label=Stars&style=social)](https://github.com/HamiParsa)
 
 </div>
 
