@@ -289,6 +289,21 @@ But when I speak again...
 
 ## ⚡ Project Arsenal
 
+### 🍕 FoodRush
+FoodRush — A full-stack food ordering web app built with Next.js 14, TypeScript, Tailwind CSS, Supabase, and Zustand. Features Google OAuth authentication, a product catalog with category filtering, a cart system, order placement, and an admin panel for managing products and orders.
+
+<code>📁 [Repository](https://github.com/HamiParsa/FoodRush)</code> •
+
+---
+
+### 🕹️ Game-Hub
+
+Game-Hub is a cutting-edge gaming discovery platform built with modern web technologies. It provides gamers with a comprehensive database of games, allowing them to explore, filter, and get detailed information about their favorite titles. The application features a sleek, responsive interface with smooth animations and real-time data fetching.
+
+
+• <code>🔮 [Live](https://animated-unicorn-db139d.netlify.app/)</code>
+
+---
 ### 🎬 Movie Explorer
 Discover, explore, and enjoy your favorite movies in style. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
