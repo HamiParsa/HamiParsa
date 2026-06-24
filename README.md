@@ -299,7 +299,7 @@ FoodRush — A full-stack food ordering web app built with Next.js 14, TypeScrip
 Game-Hub is a cutting-edge gaming discovery platform built with modern web technologies. It provides gamers with a comprehensive database of games, allowing them to explore, filter, and get detailed information about their favorite titles. The application features a sleek, responsive interface with smooth animations and real-time data fetching.
 
 
-• <code>🔮 [Live](https://animated-unicorn-db139d.netlify.app/)</code>
+<code>📁 [Repository](https://github.com/HamiParsa/Game-Hub)</code> • <code>🔮 [Live](https://game-hub0.netlify.app/)</code>
 
 ---
 ### 🎬 Movie Explorer
