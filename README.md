@@ -481,7 +481,7 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 <a href="https://github.com/HamiParsa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://t.me/HamiParsa">
+<a href="https://t.me/AghaHamii">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
