@@ -224,67 +224,28 @@ But when I speak again...
 
 <!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
-<h2 align="center">⚡ TECH STACK ⚡</h2>
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>
-<b>Next.js</b>
-</td>
+# 💻 Tech Stack
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
-<b>React</b>
-</td>
+| **Languages** | **Frontend** | **Backend** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js,ts" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=nextjs,nodejs" height="45"/> |
+| `JavaScript` • `TypeScript` | `React` • `Next.js` • `Tailwind` • `Zustand` | `Next.js` • `Node.js` |
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>
-<b>TS</b>
-</td>
+| **Databases** | **DevOps & Cloud** | **Tools & IDEs** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=supabase,mongodb" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman" height="45"/> |
+| `Supabase` • `MongoDB` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman` |
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
-<b>Tailwind</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redux" width="48"/><br>
-<b>Redux</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
-<b>VSCode</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>
-<b>Vercel</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=netlify" width="48"/><br>
-<b>Netlify</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=supabase" width="48"/><br>
-<b>Supabase</b>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <!-- PROJECTS: NEON GRID STYLE -->
 
-## ⚡ Project Arsenal
+<div align="center">
+  
+  ## ⚡ Project Arsenal
 
 ### 🍕 FoodRush
 FoodRush — A full-stack food ordering web app built with Next.js 14, TypeScript, Tailwind CSS, Supabase, and Zustand. Features Google OAuth authentication, a product catalog with category filtering, a cart system, order placement, and an admin panel for managing products and orders.
@@ -438,6 +399,8 @@ Interactive fan website showcasing Eminem's biography, albums, news, and ticket 
 Modern second-hand marketplace to post, browse, edit, and manage product listings.
 
 <code>📁 [Repository](https://github.com/HamiParsa/Second-Hand-Shop)</code> • <code>🔮 [Live](https://delightful-wisp-111a27.netlify.app/)</code>
+
+</div>
 
 ---
 
