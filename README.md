@@ -247,6 +247,13 @@ But when I speak again...
   
   ## ⚡ Project Arsenal
 
+### 🍿 netflix-clone
+Netflix Clone — A full-stack movie streaming platform built with Next.js 15, TypeScript, and Node.js. Features user authentication with JWT, subscription plan management (Basic, Standard, Premium), and an admin panel for movie management. Designed with a cinematic dark UI inspired by Netflix.
+
+<code>📁 [Repository](https://github.com/HamiParsa/netflix-clone)</code> •
+
+---
+
 ### 🍕 FoodRush
 FoodRush — A full-stack food ordering web app built with Next.js 14, TypeScript, Tailwind CSS, Supabase, and Zustand. Features Google OAuth authentication, a product catalog with category filtering, a cart system, order placement, and an admin panel for managing products and orders.
 
