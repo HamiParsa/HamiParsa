@@ -134,7 +134,7 @@
 ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
 
 <div align="center">
-  <img src="/Logo.png" width="100%" height="500px" alt="logo" />
+  <img src="/Logo.png" />
 </div>
 
 <!-- SECTION: BADASS INTRO -->
