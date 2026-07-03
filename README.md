@@ -32,7 +32,6 @@
   <br>
   Built for README profiles, portfolios, developer showcases, and open-source communities.
 </p>
-
 <p align="center">
 
 <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
