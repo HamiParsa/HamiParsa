@@ -472,28 +472,31 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 
 > 🥂Fuel late-night commits & energy drinks 🍺
 
+## 💳 Banking Support
+**BluBank (Saman Bank - Iran)**  
+`6219-8619-6889-3460`  
 <img src="Donate.png" width="150">
 
 **📱 SCAN → 💸 DONATE → 🏆 SUPPORT**
+<br><br>
 
+## ₿ Crypto Support
 
-### RIAL SUPPORT ONLY 
-
-*💳 Support via Iranian Rial is the only available method*
-
-| 🏦 Method | 💚 Status |
-|-----------|-----------|
-| 💳 Credit Card | ❌ Not Available |
-| ₿ Crypto | ❌ Not Available |
-| **Iranian Rial (IRR)** | ✅ **ONLY** |
+![USDT](https://img.shields.io/badge/USDT-TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)  
+`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`
 
 <br>
 
-
+![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
+`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`
 
 <br>
 
-💚 **Thank you for your support** 💚
+![Ethereum](https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`
+
+<br>
+🤍 **Thank you for your support** 🤍
 
 </div>
 
