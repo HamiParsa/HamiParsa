@@ -555,12 +555,13 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 <!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
   
-### 👾 <b> COMMIT PAC-MAN - PAC-MAN COMMITS</b>
+
+### 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HamiParsa/HamiParsa/blob/output/pacman-contribution-graph-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HamiParsa/HamiParsa/blob/output/pacman-contribution-graph.svg?raw=true">
-  <img alt="pacman contribution graph" src="https://github.com/HamiParsa/HamiParsa/blob/output/pacman-contribution-graph.svg?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
@@ -568,4 +569,5 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 ---
 ### 📊  GitHub Analytics
 ![HamiParsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true)
+<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamiParsa&theme=github_dark)
