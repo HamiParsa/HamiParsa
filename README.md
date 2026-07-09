@@ -130,7 +130,7 @@
 ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
 
 <div align="center">
-  <img src="/Logo.png" />
+  <img width="600px" src="/LogoHami.png" />
 </div>
 
 # 🚀 Dumirror | Software Development Studio
