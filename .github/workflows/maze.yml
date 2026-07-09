@@ -2,7 +2,7 @@ name: Generate Pacman Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # هر ۲۴ ساعت یک‌بار اجرا می‌شود
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -30,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
