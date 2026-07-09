@@ -558,9 +558,9 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 ### 👾 <b> COMMIT PAC-MAN - PAC-MAN COMMITS</b>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HamiParsa/HamiParsa/blob/output/pacman-contribution-graph-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HamiParsa/HamiParsa/blob/output/pacman-contribution-graph.svg?raw=true">
+  <img alt="pacman contribution graph" src="https://github.com/HamiParsa/HamiParsa/blob/output/pacman-contribution-graph.svg?raw=true">
 </picture>
 
 </div>
