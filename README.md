@@ -134,6 +134,8 @@
 </div>
 
 # 🚀 Dumirror | Software Development Studio
+## 👥 Our Team
+*Turning ideas into reality, together.*
 
 [![Website](https://img.shields.io/badge/-dumirror.com-FF653F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dumirror.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/dumirror)
