@@ -281,8 +281,8 @@ But when I speak again...
 
 | **Databases** | **DevOps & Cloud** | **Tools & IDEs** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=supabase,mongodb" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
-| `Supabase` • `MongoDB` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman`  • `Pycharm` |
+| <img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
+| `Supabase` • `MongoDB` • `Sqlite` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman`  • `Pycharm` |
 
 </div>
 
