@@ -276,13 +276,13 @@ But when I speak again...
 
 | **Languages** | **Frontend** | **Backend** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=js,ts" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=nextjs,nodejs" height="45"/> |
-| `JavaScript` • `TypeScript` | `React` • `Next.js` • `Tailwind` • `Zustand` | `Next.js` • `Node.js` |
+| <img src="https://skillicons.dev/icons?i=js,ts,python" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,django" height="45"/> |
+| `JavaScript` • `TypeScript` • `Python` | `React` • `Next.js` • `Tailwind` • `Zustand` | `Next.js` • `Node.js`•  `Django` |
 
 | **Databases** | **DevOps & Cloud** | **Tools & IDEs** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=supabase,mongodb" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman" height="45"/> |
-| `Supabase` • `MongoDB` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman` |
+| <img src="https://skillicons.dev/icons?i=supabase,mongodb" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
+| `Supabase` • `MongoDB` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman`  • `Pycharm` |
 
 </div>
 
