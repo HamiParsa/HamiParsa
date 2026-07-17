@@ -428,15 +428,13 @@ But when I speak again...
 ### 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=3&gradientColor=FF00FF,00E5FF,FF6B35&section=header" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
 </picture>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=3&gradientColor=FF00FF,00E5FF,FF6B35&section=header" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=3&gradientColor=FF00FF,00E5FF,FF6B35&section=header" />
 
 
