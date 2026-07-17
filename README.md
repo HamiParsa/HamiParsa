@@ -545,10 +545,28 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 
 <br/>
 
+
+<!-- ====== GITHUB ANALYTICS ====== -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br/>
+
+<img src="https://img.shields.io/badge/📈-Contribution_Heatmap-00E5FF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/🔥-Activity_2025-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF6B35&point=FFFFFF&area=true&area_color=00E5FF&custom_title=🔥%20Contribution%20Heatmap%202025" width="95%" />
+
+</div>
+
+---
+
 <!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
   
-
 ### 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
 
 <picture>
@@ -559,6 +577,5 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 
 </div>
 
----
-### 📊  GitHub Analytics
-![HamiParsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true)
+
+
