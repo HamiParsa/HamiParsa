@@ -410,27 +410,20 @@ But when I speak again...
 
 <br/>
 
-
-<!-- ====== GITHUB ANALYTICS ====== -->
-<div align="center">
-
 ## 📊 GitHub Analytics
 
-<br/>
-
-<img src="https://img.shields.io/badge/📈-Contribution_Heatmap-FF0000?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/🔥-Activity_2025-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF6B35&point=FFFFFF&area=true&area_color=00E5FF&custom_title=🔥%20Contribution%20Heatmap%202025" width="95%" />
-
-</div>
-
----
-
-<!-- PACMAN CONTRIBUTION GRAPH (UNTOUCHED - IT'S PERFECT) -->
 <div align="center">
+  
+  
+  <br/><br/>
+  
+  <div style="background: linear-gradient(135deg, #00D4FF11, #FF004422); padding: 20px; border-radius: 20px; border: 1px solid #00D4FF33;">
+    
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF0044&point=FFFFFF&area=true&area_color=00D4FF" width="100%" />
+    
+  </div>
+      
+</div>
   
 ### 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
 
