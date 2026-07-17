@@ -451,7 +451,7 @@ But when I speak again...
 
 <br/>
 
-<img src="https://img.shields.io/badge/📈-Contribution_Heatmap-00E5FF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/📈-Contribution_Heatmap-FF0000?style=for-the-badge&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/🔥-Activity_2025-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
 
 <br/><br/>
