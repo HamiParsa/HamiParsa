@@ -516,37 +516,33 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=0A0A0A,1A1A2E&section=header" />
 
-# 💰 DONATE 💰
+<!-- ====== DONATE ====== -->
+<h2 align="center">💰 Support</h2>
 
-> 🥂Fuel late-night commits & energy drinks 🍺
+<br/>
 
-## 💳 Banking Support
-**BluBank (Saman Bank - Iran)**  
-`6219-8619-6889-3460`  
-<img src="Donate.png" width="150">
+<table align="center" style="border: 1px solid #00FF00;">
+<tr>
+<td align="center">💳 <b>Bank</b></td>
+<td><code>6219-8619-6889-3460</code> (BluBank/Saman)</td>
+</tr>
+<tr>
+<td align="center">₿ <b>Bitcoin</b></td>
+<td><code>bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code></td>
+</tr>
+<tr>
+<td align="center">💎 <b>Ethereum</b></td>
+<td><code>0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795</code></td>
+</tr>
+<tr>
+<td align="center">🪙 <b>USDT</b></td>
+<td><code>TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code></td>
+</tr>
+</table>
 
-**📱 SCAN → 💸 DONATE → 🏆 SUPPORT**
-<br><br>
+<br/>
 
-## ₿ Crypto Support
-
-![USDT](https://img.shields.io/badge/USDT-TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)  
-`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`
-
-<br>
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
-`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`
-
-<br>
-
-![Ethereum](https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`
-
-<br>
-🤍 **Thank you for your support** 🤍
-
-</div>
+> **☕ Every coffee = Another commit**
 
 ---
 
