@@ -366,26 +366,45 @@ But when I speak again...
 ---
 
 
-<!-- CONNECT & DONATE - DARK NEON THEME -->
-<div align="center">
-  
-### 🔗 <b> CONNECTION CHANNELS</b>
 
-<div align="center">
-  
+## 🔗 CONNECTION CHANNELS
+
+<br/>
+
+<!-- ====== SOCIAL BADGES WITH GLOW ====== -->
 <a href="https://github.com/HamiParsa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://t.me/HamiParsa">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://www.instagram.com/hamii.parsa">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"/>
 </a>
+<a href="https://hamiparsa.github.io/About-Me/">
+  <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
+</a>
+
+<br/><br/>
+
+<!-- ====== GLOW DIVIDER ====== -->
+<div style="background: linear-gradient(90deg, #FF00FF, #00E5FF, #FF6B35, #00FF41); height: 3px; border-radius: 10px; width: 60%; margin: 0 auto; box-shadow: 0 0 20px rgba(255,0,255,0.3);"></div>
+
+<!-- ====== AVAILABILITY BADGE ====== -->
+<img src="https://img.shields.io/badge/🟢-Available_for_Work-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/💬-Open_to_Collaboration-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/⚡-Reply_in_Seconds-FF00FF?style=for-the-badge&labelColor=0A0A0A" />
+
+<br/><br/>
+
+<!-- ====== FOOTER DIVIDER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=2&gradientColor=FF00FF,00E5FF,FF6B35,00FF41&section=footer" />
+
 </div>
+
 
 <br/>
 
