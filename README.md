@@ -3,70 +3,64 @@
 <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=blue" width="auto" />
 <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=E74C3C&style=for-the-badge&label=TOTAL%20VIEWS" />
 </div>
+
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hami+Parsa;>_+Full-Stack+Engineer;>_+From+DB+to+DOM;>_+End-to-End+Developer;>_+System+Integrator" alt="Typing SVG" /> 
-</div>
-<div align="center">
-<h2>
   
-  ![](https://img.shields.io/badge/⬜-white?style=flat&logo=github&logoColor=black&labelColor=white) GitHub Languages Card
-</h2>
-<p align="center">
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img
-      src="https://github-languages-card.vercel.app/api/top-languages?username=HamiParsa&theme=dark"
-      width="760"
-      alt="GitHub Languages Card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Transform any GitHub profile into a clean, shareable language analytics card.</strong>
-  <br>
-  Built for README profiles, portfolios, developer showcases, and open-source communities.
-</p>
-<p align="center">
-
-<a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-  <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" alt="GitHub Stars" />
-</a>
-
-<a href="https://github-languages-card.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-</a>
-</p>
-
-### 🚀 Support the Repository Owner
-
-> If you find this repository useful, please **give it a star ⭐** and **follow the creator on GitHub** 🔔 — **Vida Khoshpey (vidatwin)**
-
-<br>
-
-<div align="center">
-
-### 👇 View Repository
-
-[![View Repository](https://img.shields.io/badge/📂_View_Repository-Orange?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/VIDAKHOSHPEY22/github-languages-card)
-
-### 👨‍💻 View Creator's GitHub
-
-[![View Creator's GitHub](https://img.shields.io/badge/👤_GitHub_Creator-Purple?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2)](https://github.com/VIDAKHOSHPEY22)
-
+  ## 📊 GitHub Languages Card
 </div>
 
-<br>
 
 
-✨ **A simple star means a lot to Vida! Show your support today** ✨
+<div align="center">
+  
+  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+    <img src="https://github-languages-card.vercel.app/api/top-languages?username=HamiParsa&theme=dark" width="760" alt="GitHub Languages Card" />
+  </a>
+  
+  <br/><br/>
+  
+  <blockquote>
+    <b>Transform any GitHub profile into a clean, shareable language analytics card.</b>
+    <br/>
+    Built for README profiles, portfolios, and developer showcases.
+  </blockquote>
+  
+  <br/>
+  
+  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+    <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github-languages-card.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  
+  ### 🚀 Support the Creator
+  
+  > If you find this useful, please **give it a star ⭐** and **follow** — **Vida Khoshpey (vidatwin)**
+  
+  <br/>
+  
+  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+    <img src="https://img.shields.io/badge/📂-View_Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/VIDAKHOSHPEY22">
+    <img src="https://img.shields.io/badge/👤-GitHub_Creator-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  
+  ✨ **A simple star means a lot! Show your support today** ✨
+  
+  <br/>
+  
+  
+</div>
 
 ---
 
-## 🌐 My Personal Websites
-
-> To learn more about me and see my portfolio, feel free to visit my websites below:
-
-<br>
 
 <div align="center">
 
@@ -78,29 +72,30 @@
   
   <br/><br/>
   
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <a href="https://hamiparsa.github.io/About-Me/">
-          <img src="https://img.shields.io/badge/🧑‍💻-About_Me-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-        <br/>
-        <sub><b>My journey, skills & passions</b></sub>
-      </td>
-      <td align="center" width="300">
-        <a href="https://hamiparsa.github.io/Profile-Bio/">
-          <img src="https://img.shields.io/badge/📁-Projects_Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-        <br/>
-        <sub><b>Case studies & creative work</b></sub>
-      </td>
-    </tr>
-  </table>
+  <a href="https://hamiparsa.github.io/About-Me/">
+    <img src="https://img.shields.io/badge/🧑‍💻-About_Me-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   
   <br/>
   
-  ✨ **Check out both sites to see what I've been building!** ✨
+  <sub><b>📖 My journey, skills & passions</b></sub>
   
+  <br/><br/>
+  
+  <a href="https://hamiparsa.github.io/Profile-Bio/">
+    <img src="https://img.shields.io/badge/📁-Projects_Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  
+  <br/>
+  
+  <sub><b>🎯 Case studies & creative work</b></sub>
+  
+  <br/><br/>
+  
+  <div style="background: linear-gradient(90deg, #0EA5E9, #10B981); padding: 6px 20px; border-radius: 20px; display: inline-block;">
+    ✨ <b>Check out both sites to see what I've been building!</b>
+  </div>
+
 </div>
 
 ---
