@@ -285,175 +285,56 @@ But when I speak again...
 
 ---
 
-<!-- PROJECTS: NEON GRID STYLE -->
-
+<!-- ====== PROJECTS ====== -->
 <div align="center">
-  
-  ## ⚡ Project Arsenal
 
-### 🍿 netflix-clone
-Netflix Clone — A full-stack movie streaming platform built with Next.js 15, TypeScript, and Node.js. Features user authentication with JWT, subscription plan management (Basic, Standard, Premium), and an admin panel for movie management. Designed with a cinematic dark UI inspired by Netflix.
-
-<code>📁 [Repository](https://github.com/HamiParsa/netflix-clone)</code> •
-
----
-
-### 🍕 FoodRush
-FoodRush — A full-stack food ordering web app built with Next.js 14, TypeScript, Tailwind CSS, Supabase, and Zustand. Features Google OAuth authentication, a product catalog with category filtering, a cart system, order placement, and an admin panel for managing products and orders.
-
-<code>📁 [Repository](https://github.com/HamiParsa/FoodRush)</code> •
-
----
-
-### 🕹️ Game-Hub
-
-Game-Hub is a cutting-edge gaming discovery platform built with modern web technologies. It provides gamers with a comprehensive database of games, allowing them to explore, filter, and get detailed information about their favorite titles. The application features a sleek, responsive interface with smooth animations and real-time data fetching.
-
-
-<code>📁 [Repository](https://github.com/HamiParsa/Game-Hub)</code> • <code>🔮 [Live](https://game-hub0.netlify.app/)</code>
-
----
-### 🎬 Movie Explorer
-Discover, explore, and enjoy your favorite movies in style. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Movie)</code> • <code>🔮 [Live](https://imaginative-granita-28d88b.netlify.app/)</code>
-
----
-
-### 🎵 Spotify Player Clone
-A sleek and interactive music player experience, mimicking the vibe of Spotify.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Music-Player)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Music-Player/)</code>
-
----
-
-### 📱 Phone Music Player
-Mobile-optimized music player with playlist management, search, progress bar, and animated starry background.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Phone-Music-Player)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Phone-Music-Player/)</code>
-
----
-
-### 🌌 Galaxy Project
-Explore the universe — interactive galaxies, stars, and constellations with immersive animations.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Galaxy)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Galaxy/)</code>
-
----
-
-### 🏋️‍♂️ IronZone
-Modern, responsive gym website with interactive UI, pricing plans, and smooth animations.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Iron-Zone)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Iron-Zone/programs)</code>
-
----
-
-### 🎲 Rockstar Games
-A modern web experience inspired by Rockstar's signature design language.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Rockstar-Games)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Rockstar-Games/)</code>
-
----
-
-### 🌍 Travel-Mate
-Your intelligent travel companion for planning adventures and discovering new destinations.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Travel-Mate)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Travel-Mate/)</code>
-
----
-
-### 🚗 Tesla Configurator
-Interactive vehicle configuration experience inspired by Tesla's official configurator.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Tesla)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Tesla/)</code>
-
----
-
-### ▶️ YouTube Clone
-A modern web interface that brings the look and feel of YouTube to life.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Youtube)</code> • <code>🔮 [Live](https://lighthearted-tarsier-75bef8.netlify.app/)</code>
-
----
-
-### 👑 Sexy Arena
-An edgy, modern, and visually captivating web experience.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Sexy-Arena)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Sexy-Arena/)</code>
-
----
-
-### 🎮 Game Zone
-A vibrant hub for gamers, featuring an engaging and interactive layout.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Game-Zone)</code> • <code>🔮 [Live](https://stellular-salamander-2f94ef.netlify.app/)</code>
-
----
-
-### 🗽 NewYork
-A digital postcard from the Big Apple, capturing the city's iconic style.
-
-<code>📁 [Repository](https://github.com/HamiParsa/NewYork)</code> • <code>🔮 [Live](https://hamiparsa.github.io/NewYork/)</code>
-
----
-
-### ☀️ Los Angeles
-A sun-soaked web experience inspired by the city of angels.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Los-Angeles)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Los-Angeles/)</code>
-
----
-
-### 🍔 Menu Fast Food
-A deliciously designed digital menu for a fast-food joint, making every item look tempting.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Menu-Fast-Food)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Menu-Fast-Food/)</code>
-
----
-
-### 📸 Instagram
-A stylish front-end take on the classic Instagram interface.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Instagram)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Instagram/)</code>
-
----
-
-### 💻 Code Space
-Learn programming interactively with structured courses, hands-on tutorials, and beautiful code examples.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Code-Space)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Code-Space/)</code>
-
----
-
-### ⚡ HyperNet Dashboard
-Manage internet packages, user profiles, and transactions with this modern, interactive dashboard.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Hyper-Net)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Hyper-Net/)</code>
-
----
-
-### 🖤 Kouman
-Modern clothing merch website with shopping cart, image slider, and smooth animations.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Kouman)</code> • <code>🔮 [Live](https://kouman.netlify.app/)</code>
-
----
-
-### 🎤 Eminem Fan Site
-Interactive fan website showcasing Eminem's biography, albums, news, and ticket booking.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Eminem)</code> • <code>🔮 [Live](https://hamiparsa.github.io/Eminem/)</code>
-
----
-
-### 🛍️ DastoDo (Second-Hand Shop)
-Modern second-hand marketplace to post, browse, edit, and manage product listings.
-
-<code>📁 [Repository](https://github.com/HamiParsa/Second-Hand-Shop)</code> • <code>🔮 [Live](https://delightful-wisp-111a27.netlify.app/)</code>
+## ⚡ Project Arsenal
+
+<br/>
+
+<!-- ====== FEATURED PROJECTS ====== -->
+### 🔥 Featured
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| 🍿 **netflix-clone** | Next.js 15, TypeScript, Node.js, JWT | [📁 Repo](https://github.com/HamiParsa/netflix-clone) |
+| 🍕 **FoodRush** | Next.js 14, Supabase, Zustand, OAuth | [📁 Repo](https://github.com/HamiParsa/FoodRush) |
+| 🕹️ **Game-Hub** | React, TypeScript, Tailwind, RAWG API | [🔮 Live](https://game-hub0.netlify.app/) |
+| 🎬 **Movie Explorer** | Next.js, Framer Motion, TMDB API | [🔮 Live](https://imaginative-granita-28d88b.netlify.app/) |
+
+<br/>
+
+<!-- ====== ALL PROJECTS ====== -->
+<details>
+<summary><b>📦 All Projects (20+)</b></summary>
+
+<br/>
+
+| Project | Live Demo |
+|---------|-----------|
+| 🎵 Spotify Player | [🔮 Live](https://hamiparsa.github.io/Music-Player/) |
+| 📱 Phone Music Player | [🔮 Live](https://hamiparsa.github.io/Phone-Music-Player/) |
+| 🌌 Galaxy | [🔮 Live](https://hamiparsa.github.io/Galaxy/) |
+| 🏋️ IronZone | [🔮 Live](https://hamiparsa.github.io/Iron-Zone/programs) |
+| 🎲 Rockstar Games | [🔮 Live](https://hamiparsa.github.io/Rockstar-Games/) |
+| 🌍 Travel-Mate | [🔮 Live](https://hamiparsa.github.io/Travel-Mate/) |
+| 🚗 Tesla Configurator | [🔮 Live](https://hamiparsa.github.io/Tesla/) |
+| ▶️ YouTube Clone | [🔮 Live](https://lighthearted-tarsier-75bef8.netlify.app/) |
+| 👑 Sexy Arena | [🔮 Live](https://hamiparsa.github.io/Sexy-Arena/) |
+| 🎮 Game Zone | [🔮 Live](https://stellular-salamander-2f94ef.netlify.app/) |
+| 🗽 NewYork | [🔮 Live](https://hamiparsa.github.io/NewYork/) |
+| ☀️ Los Angeles | [🔮 Live](https://hamiparsa.github.io/Los-Angeles/) |
+| 🍔 Menu Fast Food | [🔮 Live](https://hamiparsa.github.io/Menu-Fast-Food/) |
+| 📸 Instagram | [🔮 Live](https://hamiparsa.github.io/Instagram/) |
+| 💻 Code Space | [🔮 Live](https://hamiparsa.github.io/Code-Space/) |
+| ⚡ HyperNet | [🔮 Live](https://hamiparsa.github.io/Hyper-Net/) |
+| 🖤 Kouman | [🔮 Live](https://kouman.netlify.app/) |
+| 🎤 Eminem | [🔮 Live](https://hamiparsa.github.io/Eminem/) |
+| 🛍️ DastoDo | [🔮 Live](https://delightful-wisp-111a27.netlify.app/) |
+
+</details>
 
 </div>
-
----
 
 <!-- STATS SECTION WITH CUSTOM CSS -->
 <div align="center">
