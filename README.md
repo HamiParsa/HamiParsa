@@ -577,5 +577,6 @@ Modern second-hand marketplace to post, browse, edit, and manage product listing
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=3&gradientColor=FF00FF,00E5FF,FF6B35&section=header" />
 
 
