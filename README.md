@@ -130,57 +130,7 @@
   <img width="600px" src="/LogoHami.png" />
 </div>
 
-# 🚀 Dumirror | Software Development Studio
-## 👥 Our Team
-*Turning ideas into reality, together.*
 
-[![Website](https://img.shields.io/badge/-dumirror.com-FF653F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dumirror.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/dumirror)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumirror)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dumirror)
-
----
-
-## 💡 What We Do
-
-We turn ideas into professional products:
-- 🌐 Full-Stack Web Development
-- 🤖 Telegram Bots
-- 🧠 AI-Powered Solutions
-
----
-
-## 🛠️ Tech Stack
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🐙 GitHub
-
-[![GitHub Organization](https://img.shields.io/badge/GitHub-@Dumirror-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumirror)
-
-**[🔗 github.com/dumirror](https://github.com/dumirror)**
-
----
-
-## 📬 Contact
-
-📧 **Email:** dumirror.dev@gmail.com  
-🌐 **Website:** [dumirror.com](https://dumirror.com)
-
----
-
-<div align="center">
-  
-**Built with ❤️ by the Dumirror Team**
-
----
-
-</div>
 <!-- SECTION: BADASS INTRO -->
 
 
