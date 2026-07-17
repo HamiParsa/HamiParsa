@@ -70,66 +70,83 @@
 
 <div align="center">
 
-### 🧑‍💻 About Me Website
-
-[![About Me Website](https://img.shields.io/badge/🌐_About_Me-蓝色?style=for-the-badge&logo=google-chrome&logoColor=white&color=0EA5E9)](https://hamiparsa.github.io/About-Me/)
-
-*Get to know me better — my journey, skills, and passions*
-
-<br>
-
-### 🚀 Projects Portfolio
-
-[![Projects Website](https://img.shields.io/badge/📁_Projects_Portfolio-绿色?style=for-the-badge&logo=google-chrome&logoColor=white&color=10B981)](https://hamiparsa.github.io/Profile-Bio/)
-
-*Explore my work, case studies, and creative projects*
-
-</div>
-
-<br>
-
----
-
-✨ **Check out both sites to see what I've been building!** ✨
+## 🌐 Personal Websites
 
 <div align="center">
+  
+  <i>Explore my journey, skills, and creative projects</i>
+  
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <a href="https://hamiparsa.github.io/About-Me/">
+          <img src="https://img.shields.io/badge/🧑‍💻-About_Me-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        <br/>
+        <sub><b>My journey, skills & passions</b></sub>
+      </td>
+      <td align="center" width="300">
+        <a href="https://hamiparsa.github.io/Profile-Bio/">
+          <img src="https://img.shields.io/badge/📁-Projects_Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        <br/>
+        <sub><b>Case studies & creative work</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  ✨ **Check out both sites to see what I've been building!** ✨
+  
+</div>
+
+---
 
 ## 🏆 Iran's GitHub Rising Star
 
-> **HamiParsa (Hami)** is one of the most active developers in Iran's GitHub community.
-
-<br>
-
 <div align="center">
-
-### 🌟 National Ranking 🌟
-
-[![committers.top badge](https://user-badge.committers.top/iran/HamiParsa.svg)](https://user-badge.committers.top/iran/HamiParsa)
-
-
-
-<br>
-
+  
+  <blockquote>
+    <b>HamiParsa</b> — One of the most active developers in Iran's GitHub community
+  </blockquote>
+  
+  <br/>
+  
+  ### 🌟 National Ranking
+  
+  <a href="https://user-badge.committers.top/iran/HamiParsa">
+    <img src="https://user-badge.committers.top/iran/HamiParsa.svg" />
+  </a>
+  
+  <br/><br/>
+  
+  ### 💎 Why Support HamiParsa?
+  
+  <table>
+    <tr>
+      <td>📈</td>
+      <td><b>Consistent Activity</b><br/>Ranking among Iran's top developers</td>
+    </tr>
+    <tr>
+      <td>🌍</td>
+      <td><b>Open Source Contributor</b><br/>Strengthening the open-source ecosystem</td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td><b>Inspiration to Others</b><br/>Inspiring the next generation of coders</td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
+    
+  <img src="/LogoHami.png" width="500" />
+  
 </div>
-
-<br>
-
-### 💎 Why Support HamiParsa?
-
-- **Consistent Activity:** Ranking among the top 50 developers in Iran shows dedication and hard work.
-- **Open Source Contributor:** Every contribution helps make the open-source ecosystem stronger.
-- **Inspiration to Others:** Active developers like Hami inspire the next generation of coders.
-
-<br>
-
----
-
-✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
-
-<div align="center">
-  <img width="600px" src="/LogoHami.png" />
-</div>
-
 
 <!-- SECTION: BADASS INTRO -->
 
