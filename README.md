@@ -188,83 +188,75 @@ We turn ideas into professional products:
   
 ## 🧑‍🚀 About Me
 
-Hey there! 👋 I'm a **Full-Stack Developer**.
+Hey there! 👋 I'm a **Full-Stack Developer** who turns ideas into living, breathing products.
 
-From database down to the last pixel, from authentication to animation — I own the whole stack. And I'm just getting started.
+From **database design** to the **last pixel**, from **authentication** to **animation** — I own the whole stack. And I'm just getting started.
 
-🧠 I don't chase trends. I set the pace. Give me a wild idea, a weird problem, or a broken system — I'll turn it into a **living, breathing, high-performance product**.
+🧠 I don't chase trends. I set the pace. Give me a wild idea, a weird problem, or a broken system — I'll turn it into something that makes people go *"damn"*.
 
-<br/>
+---
 
-### 🚨 What's cooking (Coming Soon)
+## 🚀 What's Cooking
 
-> I'm working on some **next-level** stuff.  
-> Things that bend the rules. Things that make you go *"damn"*.
+> **Next-level stuff is in the oven.**  
+> Things that bend the rules. Things that break expectations.
 
-`⚡ Supercharged Full-Stack Tools` &nbsp;&nbsp; `🎯 Secret Projects`  
-`🧠 New Architecture Patterns` &nbsp;&nbsp; `🔥 Something Unexpected`
-
-<br/>
+`⚡ Supercharged Tools` &nbsp; `🎯 Secret Projects` &nbsp; `🧠 New Patterns` &nbsp; `🔥 Something Unexpected`
 
 <div align="center">
   
-  *⏳* **COMING SOON** *⏳*
+  ⏳ **COMING SOON** ⏳
 
 </div>
 
-<br/>
+---
 
-### 🎯 My Vibe Now
+## 🎯 Current Vibe
 
 > **Full-Stack on the hunt.**  
-> From **database design to micro-interactions**, from **serverless to edge**.
+> From database to micro-interactions. From serverless to edge.
 
-I don't wait for permission to build awesome things. I just build them.
+I don't wait for permission. I just build.
 
-<br/>
+---
 
-### 🧠 My Code-Soul
+## 🧬 Code-Soul
 
 | 🔍 Curiosity | 🛠️ Building | 🎯 Precision | 🚀 Shipping | ⚡ Hunger |
 |--------------|-------------|-------------|-------------|-----------|
-| Break to learn | Ship or die | Master details | Move fast | Never satisfied |
+| Break to learn | Ship or die | Master details | Move fast | Never full |
 
-<br/>
+---
 
-### 🌌 Beyond the Code
+## 🌌 Beyond the Screen
 
-When I'm not architecting full-stack solutions or cooking up surprises:
+When I'm not architecting full-stack solutions:
 
 - 🎧 Deep coding sessions (synthwave, cinematic, high-energy)
 - ☕ Fueled by coffee and curiosity
 - 💥 Breaking boundaries, not just code
 
-<br/>
+---
 
-### 🔮 What's Next?
+## 🔮 What's Next?
 
-I'm leveling up in silence right now.  
+I'm leveling up in silence right now.
 
 But when I speak again...  
 **You'll hear it.**
 
-<br/>
+---
 
 <div align="center">
-  
+
   *"It doesn't end at Full-Stack.*  
   *There's so much more to build, so many mountains left to climb.*  
   ***My journey has only begun.***"
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer&gradientColor=00E5FF,FF00CC&text=⚡%20FULL-STACK%20MODE%20ACTIVATED%20⚡&fontSize=16&fontColor=white&animation=twinkling" />
-
-  <br/>
-  
 </div>
 
----
 
 <!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
