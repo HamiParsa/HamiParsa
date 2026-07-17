@@ -3,9 +3,6 @@
 <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=blue" width="auto" />
 <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=E74C3C&style=for-the-badge&label=TOTAL%20VIEWS" />
 </div>
-<div align="center">
-  <img width="500px" src="hi.gif" />
-</div>
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hami+Parsa;>_+Full-Stack+Engineer;>_+From+DB+to+DOM;>_+End-to-End+Developer;>_+System+Integrator" alt="Typing SVG" /> 
 </div>
