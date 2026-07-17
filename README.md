@@ -269,17 +269,30 @@ But when I speak again...
 <!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
 
-# 💻 Tech Stack
+<!-- ====== TECH STACK ====== -->
+<div align="center">
 
-| **Languages** | **Frontend** | **Backend** |
+## 💻 Tech Stack
+
+<br/>
+
+<!-- ====== GLOW DIVIDER ====== -->
+<div style="background: linear-gradient(90deg, #00E5FF, #FF6B35, #FFD700); height: 2px; border-radius: 10px; width: 50%; margin: 0 auto 15px auto;"></div>
+
+| **🧠 Languages** | **🎨 Frontend** | **⚙️ Backend** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=js,ts,python" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,django" height="45"/> |
-| `JavaScript` • `TypeScript` • `Python` | `React` • `Next.js` • `Tailwind` • `Zustand` | `Next.js` • `Node.js`•  `Django` |
+| `JavaScript` • `TypeScript` • `Python` | `React` • `Next.js` • `Tailwind` • `Zustand` | `Next.js` • `Node.js` • `Django` |
 
-| **Databases** | **DevOps & Cloud** | **Tools & IDEs** |
+| **🗄️ Databases** | **☁️ DevOps & Cloud** | **🛠️ Tools & IDEs** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
-| `Supabase` • `MongoDB` • `Sqlite` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman`  • `Pycharm` |
+| `Supabase` • `MongoDB` • `SQLite` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman` • `PyCharm` |
+
+<br/>
+
+<!-- ====== GLOW DIVIDER ====== -->
+<div style="background: linear-gradient(90deg, #FFD700, #FF6B35, #00E5FF); height: 2px; border-radius: 10px; width: 30%; margin: 0 auto;"></div>
 
 </div>
 
