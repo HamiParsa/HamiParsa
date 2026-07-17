@@ -411,8 +411,6 @@ But when I speak again...
 <!-- DONATE QR CODE - HYPER NEON BORDER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&gradientColor=0A0A0A,1A1A2E&section=header" />
-
 <!-- ====== DONATE ====== -->
 <h2 align="center">💰 Support</h2>
 
