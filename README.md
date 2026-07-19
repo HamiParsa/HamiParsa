@@ -141,7 +141,7 @@
   
   ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
     
-  <img src="/logo-final.png" width="500" />
+  <img src="/logo-final.png" width="400" />
   
 </div>
 
