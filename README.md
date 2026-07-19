@@ -364,7 +364,6 @@ But when I speak again...
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=2&gradientColor=FF00FF,00E5FF,FF6B35,00FF41&section=footer" />
 
 </div>
 
