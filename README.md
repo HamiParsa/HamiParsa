@@ -415,7 +415,6 @@ But when I speak again...
 </div>
   
 ### 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
