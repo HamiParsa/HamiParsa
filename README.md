@@ -318,7 +318,7 @@ But when I speak again...
 <img src="https://streak-stats.demolab.com/?user=HamiParsa&theme=github-dark&hide_border=false&background=000000&stroke=8b949e&ring=FEC260&fire=FEC260&currStreakNum=FEC260&sideNums=FEC260&currStreakLabel=F1F1F1&sideLabels=F1F1F1&dates=F1F1F1" width="32%" />
 <br/>
 <br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=github_dark&hide_border=true&layout=compact&bg_color=000000&title_color=F1F1F1&text_color=8b949e&langs_count=6" width="25%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=github_dark&hide_border=false&layout=compact&bg_color=000000&title_color=F1F1F1&text_color=8b949e&langs_count=6" width="25%" />
 
 </div>
 
