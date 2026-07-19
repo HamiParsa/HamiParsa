@@ -375,7 +375,7 @@ But when I speak again...
 
 <br/>
 
-<!-- DONATE QR CODE - HYPER NEON BORDER -->
+
 <div align="center">
 
 <!-- ====== DONATE ====== -->
