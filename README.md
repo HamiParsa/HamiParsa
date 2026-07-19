@@ -350,7 +350,7 @@ But when I speak again...
   <img src="https://img.shields.io/badge/Telegram-251D3A?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://www.instagram.com/hamii.parsa">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"/>
