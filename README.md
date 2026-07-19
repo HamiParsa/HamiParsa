@@ -357,7 +357,6 @@ But when I speak again...
 
 <br/><br/>
 
-<!-- ====== GLOW DIVIDER ====== -->
 
 
 <!-- ====== AVAILABILITY BADGE ====== -->
