@@ -312,7 +312,7 @@ But when I speak again...
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=HamiParsa&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e&show_icons=true" width="32%" />
+<img src="https://github-readme-stats.shion.dev/api?username=HamiParsa&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=FEC260&text_color=8b949e&icon_color=8b949e&show_icons=true" width="32%" />
 <img src="https://streak-stats.demolab.com/?user=HamiParsa&theme=github-dark&hide_border=true&background=0d1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" width="32%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=8b949e&text_color=8b949e&langs_count=6" width="25%" />
 
