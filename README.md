@@ -5,6 +5,7 @@
 </div>
 
 <br/>
+
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=400&color=E2DFD0&center=true&vCenter=true&width=600&lines=Hami+Parsa;>_+Full-Stack+Engineer;>_+From+DB+to+DOM;>_+End-to-End+Developer;>_+System+Integrator" alt="Typing SVG" /> 
   
