@@ -411,7 +411,6 @@ But when I speak again...
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF0044&point=FFFFFF&area=true&area_color=00D4FF" width="100%" />
     
   </div>
-      
 </div>
   
 ### 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
