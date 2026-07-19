@@ -357,7 +357,6 @@ But when I speak again...
 
 <br/><br/>
 
-
 <!-- ====== AVAILABILITY BADGE ====== -->
 <img src="https://img.shields.io/badge/🟢-Available_for_Work-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/💬-Open_to_Collaboration-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
