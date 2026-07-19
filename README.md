@@ -356,7 +356,7 @@ But when I speak again...
   <img src="https://img.shields.io/badge/Instagram-251D3A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://hamiparsa.github.io/About-Me/">
-  <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
 <br/><br/>
