@@ -46,10 +46,10 @@
   <br/>
   
   <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://img.shields.io/badge/📂-View_Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/VIDAKHOSHPEY22">
-    <img src="https://img.shields.io/badge/👤-GitHub_Creator-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Creator-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
   <br/><br/>
