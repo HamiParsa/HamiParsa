@@ -358,7 +358,7 @@ But when I speak again...
 <br/><br/>
 
 <!-- ====== GLOW DIVIDER ====== -->
-<div style="background: linear-gradient(90deg, #FF00FF, #00E5FF, #FF6B35, #00FF41); height: 3px; border-radius: 10px; width: 60%; margin: 0 auto; box-shadow: 0 0 20px rgba(255,0,255,0.3);"></div>
+
 
 <!-- ====== AVAILABILITY BADGE ====== -->
 <img src="https://img.shields.io/badge/🟢-Available_for_Work-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
