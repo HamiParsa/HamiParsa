@@ -23,7 +23,6 @@
     Built for README profiles, portfolios, and developer showcases.
   </blockquote>
   <br/>
-  
   <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
     <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" />
   </a>
