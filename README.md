@@ -9,7 +9,6 @@
   [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-92003A?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/HamiParsa/README_FA.md)
 </div>
 
-
 <br/>
 
 <div align="center"> 
