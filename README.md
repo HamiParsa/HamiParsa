@@ -12,7 +12,7 @@
   ## 📊 GitHub Languages Card
 </div>
 
-...
+
 
 <div align="center">
   
