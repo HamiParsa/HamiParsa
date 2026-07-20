@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=251D3A" /> 
   <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
 </div>
-
+....
 <br/>
 
 <div align="center"> 
