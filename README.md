@@ -5,6 +5,8 @@
   <br/>
   
   [![Open Source - GitHub Developer](https://img.shields.io/badge/Open_Source-GitHub_Developer-251D3A?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
+  
+  [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-92003A?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/HamiParsa/README_FA.md)
 </div>
 
 
