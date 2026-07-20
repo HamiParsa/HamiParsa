@@ -1,4 +1,3 @@
-
 <div align="center" id="top"> 
   <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" /> 
   <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=251D3A" /> 
