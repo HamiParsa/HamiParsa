@@ -72,7 +72,6 @@
   <div style="background: linear-gradient(90deg, #0EA5E9, #10B981); padding: 6px 20px; border-radius: 20px; display: inline-block;">
     ✨ <b>Check out both sites to see what I've been building!</b>
   </div>
-
 </div>
 
 ---
