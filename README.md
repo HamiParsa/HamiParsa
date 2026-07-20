@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" /> 
   <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=251D3A" /> 
   <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
-  
+  <br/>
   [![Open Source - GitHub Developer](https://img.shields.io/badge/Open_Source-GitHub_Developer-251D3A?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
 </div>
 
