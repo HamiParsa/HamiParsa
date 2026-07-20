@@ -391,7 +391,6 @@ But when I speak again...
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
 </picture>
 </div>
-
 <br><br>
 
 <a href="#top">
