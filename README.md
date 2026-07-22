@@ -312,7 +312,6 @@ But when I speak again...
 </div>
 
 ---
-
 ## 🔗 CONNECTION CHANNELS
 
 <br/>
