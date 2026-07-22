@@ -60,7 +60,7 @@
   <br/><br/>
   
   <a href="https://hamiparsa.github.io/Profile-Bio/">
-    <img src="https://img.shields.io/badge/Projects_Portfolio-251D3A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Projects_Portfolio-FFC81E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
   <br/>
