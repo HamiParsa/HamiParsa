@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=FEC260" /> 
   <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
   <br/>
+  <br/>
   
   [![Open Source - GitHub Developer](https://img.shields.io/badge/Open_Source-GitHub_Developer-FFC81E?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
   
