@@ -299,7 +299,7 @@ But when I speak again...
 <img src="https://img.shields.io/badge/⚡-Reply_in_Seconds-181717?style=for-the-badge&labelColor=0A0A0A" />
 <br/><br/>
 </div>
-<br/
+<br
 
 <div align="center">
 <!-- ====== DONATE ====== -->
