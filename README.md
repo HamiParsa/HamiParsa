@@ -181,7 +181,6 @@ But when I speak again...
 ## 💻 Tech Stack
 
 <br/>
-
 <!-- ====== GLOW DIVIDER ====== -->
 <div style="background: linear-gradient(90deg, #00E5FF, #FF6B35, #FFD700); height: 2px; border-radius: 10px; width: 50%; margin: 0 auto 15px auto;"></div>
 
