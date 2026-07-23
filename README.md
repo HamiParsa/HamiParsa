@@ -64,8 +64,7 @@
 
 ## 🏆 Iran's GitHub Rising Star
 <div align="center">
-  
-<blockquote>
+  <blockquote>
     <b>HamiParsa</b> — One of the most active developers in Iran's GitHub community
   </blockquote>
   <br/>
