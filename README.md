@@ -276,7 +276,6 @@ But when I speak again...
 <br/>
 <br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamiParsa&theme=github_dark&hide_border=true&layout=compact&bg_color=010101&title_color=F1F1F1&text_color=8b949e&langs_count=6" width="25%" />
-
 </div>
 
 ---
