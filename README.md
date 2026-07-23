@@ -49,7 +49,7 @@
   </a>
   <br/>
   
-  <sub><b>📖 My journey, skills & passions</b></sub>
+<sub><b>📖 My journey, skills & passions</b></sub>
   
   <br/><br/>
   
