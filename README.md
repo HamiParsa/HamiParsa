@@ -300,7 +300,6 @@ But when I speak again...
 <br/><br/>
 </div>
 
-
 <div align="center">
 <!-- ====== DONATE ====== -->
 <h2 align="center">💰 Support</h2>
