@@ -93,7 +93,7 @@
   <br/>
   ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
     
-  <img src="/poster.png" />
+<img src="/poster.png" />
   
 </div>
 
