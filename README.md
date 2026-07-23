@@ -77,7 +77,7 @@
   
   ### 💎 Why Support HamiParsa?
   
-  <table>
+<table>
     <tr>
       <td>📈</td>
       <td><b>Consistent Activity</b><br/>Ranking among Iran's top developers</td>
