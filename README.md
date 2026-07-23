@@ -47,7 +47,7 @@
   <i>Explore my journey, skills, and creative projects</i>
   <br/><br/>
   
-  <a href="https://hamiparsa.github.io/About-Me/">
+<a href="https://hamiparsa.github.io/About-Me/">
     <img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
