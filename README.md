@@ -210,7 +210,6 @@ But when I speak again...
 ## ⚡ Project Arsenal
 
 <br/>
-
 <!-- ====== FEATURED PROJECTS ====== -->
 ### 🔥 Featured
 
