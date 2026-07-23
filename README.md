@@ -318,7 +318,6 @@ But when I speak again...
 <a href="https://hamiparsa.github.io/About-Me/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
 </a>
-
 <br/>
 <br/>
 
