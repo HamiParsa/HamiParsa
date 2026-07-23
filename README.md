@@ -55,7 +55,7 @@
   </a>
   <br/>
   
-  <sub><b>🎯 Case studies & creative work</b></sub>
+<sub><b>🎯 Case studies & creative work</b></sub>
   
   <br/><br/>
   
