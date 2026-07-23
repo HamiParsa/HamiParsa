@@ -356,7 +356,6 @@ But when I speak again...
 </table>
 <br/>
 > **☕ Every coffee = Another commit**
-
 ---
 
 ## 📊 GitHub Analytics
