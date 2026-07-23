@@ -196,7 +196,6 @@ But when I speak again...
 | `Supabase` • `MongoDB` • `SQLite` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman` • `PyCharm` |
 
 <br/>
-
 <!-- ====== GLOW DIVIDER ====== -->
 <div style="background: linear-gradient(90deg, #FFD700, #FF6B35, #00E5FF); height: 2px; border-radius: 10px; width: 30%; margin: 0 auto;"></div>
 </div>
