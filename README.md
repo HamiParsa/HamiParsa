@@ -319,7 +319,8 @@ But when I speak again...
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
 <!-- ====== AVAILABILITY BADGE ====== -->
 <img src="https://img.shields.io/badge/🟢-Available_for_Work-181717?style=for-the-badge&labelColor=0A0A0A" />
