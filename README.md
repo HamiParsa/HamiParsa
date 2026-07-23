@@ -101,7 +101,6 @@
 <div align="left">
   
 ## 🧑‍🚀 About Me
-
 Hey there! 👋 I'm a **Full-Stack Developer** who turns ideas into living, breathing products.
 
 From **database design** to the **last pixel**, from **authentication** to **animation** — I own the whole stack. And I'm just getting started.
