@@ -275,7 +275,6 @@ But when I speak again...
 
 ---
 ## 🔗 CONNECTION CHANNELS
-
 <br/>
 <!-- ====== SOCIAL BADGES WITH GLOW ====== -->
 <a href="https://github.com/HamiParsa">
