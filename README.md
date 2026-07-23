@@ -91,7 +91,7 @@
     </tr>
   </table>
   
-  <br/>
+<br/>
   
   ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
     
