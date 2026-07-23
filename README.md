@@ -92,7 +92,7 @@
   </table>
   <br/>
   
-  ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
+✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
     
   <img src="/poster.png" />
   
