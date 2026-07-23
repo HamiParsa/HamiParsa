@@ -291,7 +291,6 @@ But when I speak again...
 <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HamiParsa&theme=dark_dimmed&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="85%" />
 </div>
 <br/>
-
 <div align="center">
   <code>🏆 TROPHY_CASE: FULL_WIDTH / MAXIMUM_GLORY 🏆</code>
 </div>
