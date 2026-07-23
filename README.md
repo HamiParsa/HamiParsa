@@ -258,7 +258,6 @@ But when I speak again...
 | 🎤 Eminem | [🔮 Live](https://hamiparsa.github.io/Eminem/) |
 | 🛍️ DastoDo | [🔮 Live](https://delightful-wisp-111a27.netlify.app/) |
 </details>
-
 </div>
 
 <!-- STATS SECTION WITH CUSTOM CSS -->
