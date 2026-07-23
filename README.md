@@ -354,7 +354,6 @@ But when I speak again...
 <td><code>TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code></td>
 </tr>
 </table>
-
 <br/>
 
 > **☕ Every coffee = Another commit**
