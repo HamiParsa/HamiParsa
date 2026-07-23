@@ -48,8 +48,7 @@
     <img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <br/>
-  
-<sub><b>📖 My journey, skills & passions</b></sub>
+  <sub><b>📖 My journey, skills & passions</b></sub>
   
   <br/><br/>
   
