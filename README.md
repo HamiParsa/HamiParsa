@@ -330,7 +330,6 @@ But when I speak again...
 <br/>
 
 <div align="center">
-
 <!-- ====== DONATE ====== -->
 <h2 align="center">💰 Support</h2>
 <br/>
