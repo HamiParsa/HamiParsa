@@ -105,6 +105,7 @@
 Hey there! 👋 I'm a **Full-Stack Developer** who turns ideas into living, breathing products.
 
 From **database design** to the **last pixel**, from **authentication** to **animation** — I own the whole stack. And I'm just getting started.
+
 🧠 I don't chase trends. I set the pace. Give me a wild idea, a weird problem, or a broken system — I'll turn it into something that makes people go *"damn"*.
 
 ---
