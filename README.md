@@ -46,7 +46,7 @@
 <div align="center">
   <i>Explore my journey, skills, and creative projects</i>
   
-  <br/>
+<br/>
   <br/>
   
   <a href="https://hamiparsa.github.io/About-Me/">
