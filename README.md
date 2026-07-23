@@ -50,7 +50,7 @@
   <br/>
   <sub><b>📖 My journey, skills & passions</b></sub>
   
-  <br/>
+<br/>
   <br/>
   
   <a href="https://hamiparsa.github.io/Profile-Bio/">
