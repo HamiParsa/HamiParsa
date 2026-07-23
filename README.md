@@ -75,7 +75,7 @@
   </a>
   <br/>
   
-  <br/>
+<br/>
   
   ### 💎 Why Support HamiParsa?
   
