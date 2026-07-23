@@ -267,7 +267,6 @@ But when I speak again...
 <div align="center">
   
 ## 📊 GitHub Stats
-
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=HamiParsa&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=010101&title_color=FEC260&text_color=F1F1F1&icon_color=8b949e&show_icons=true" width="32%" />
 <br/>
