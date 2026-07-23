@@ -49,8 +49,7 @@
   </a>
   <br/>
   <sub><b>📖 My journey, skills & passions</b></sub>
-  <br/>
-<br/>
+  <br/><br/>
   
   <a href="https://hamiparsa.github.io/Profile-Bio/">
     <img src="https://img.shields.io/badge/Projects_Portfolio-FFC81E?style=for-the-badge&logo=google-chrome&logoColor=white" />
