@@ -333,7 +333,6 @@ But when I speak again...
 
 <!-- ====== DONATE ====== -->
 <h2 align="center">💰 Support</h2>
-
 <br/>
 
 <table align="center" style="border: 1px solid #00FF00;">
