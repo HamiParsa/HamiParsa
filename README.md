@@ -236,7 +236,6 @@ But when I speak again...
 <summary><b>📦 All Projects (20+)</b></summary>
 
 <br/>
-
 | Project | Live Demo |
 |---------|-----------|
 | 🎵 Spotify Player | [🔮 Live](https://hamiparsa.github.io/Music-Player/) |
