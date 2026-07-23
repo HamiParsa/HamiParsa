@@ -70,8 +70,7 @@
   <br/>
   
   ### 🌟 National Ranking
-  
-<a href="https://user-badge.committers.top/iran/HamiParsa">
+  <a href="https://user-badge.committers.top/iran/HamiParsa">
     <img src="https://user-badge.committers.top/iran/HamiParsa.svg" />
   </a>
   
