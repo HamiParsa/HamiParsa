@@ -90,8 +90,7 @@
       <td><b>Inspiration to Others</b><br/>Inspiring the next generation of coders</td>
     </tr>
   </table>
-  
-<br/>
+  <br/>
   
   ✨ **Show your support with a ⭐ star or a 👥 follow!** ✨
     
