@@ -229,7 +229,6 @@ But when I speak again...
 | 🕹️ **Game-Hub** | React, TypeScript, Tailwind, RAWG API | [🔮 Live](https://game-hub0.netlify.app/) |
 | 🎬 **Movie Explorer** | Next.js, Framer Motion, TMDB API | [🔮 Live](https://hamiparsa.github.io/Movie/) |
 <br/>
-
 <!-- ====== ALL PROJECTS ====== -->
 <details>
 <summary><b>📦 All Projects (20+)</b></summary>
