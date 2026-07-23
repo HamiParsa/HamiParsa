@@ -355,7 +355,6 @@ But when I speak again...
 </tr>
 </table>
 <br/>
-
 > **☕ Every coffee = Another commit**
 
 ---
