@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" />
   <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=181717" />
   
-  <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
   
   <br/>
   
