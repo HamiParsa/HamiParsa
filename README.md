@@ -1,4 +1,4 @@
-...
+
 
 <div align="center" id="top">
   <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" />
