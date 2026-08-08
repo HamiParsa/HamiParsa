@@ -38,8 +38,8 @@
 
 <div align="center">
   
-<a src="https://www.coffeete.ir/Hami_Parsa" target="_blank">
-  <img src="/coffee.png" alt="donate" width="500px">
+<a href="https://www.coffeete.ir/Hami_Parsa" target="_blank" aria-label="Support link">
+  <img src="/coffee.png" alt="Donate with coffee" width="500">
 </a>
   
 ## 🌐 Personal Websites
