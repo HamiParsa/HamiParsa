@@ -37,6 +37,7 @@
 ---
 
 <div align="center">
+<img src="/coffee.png" alt="donate" width="300px">
   
 ## 🌐 Personal Websites
 <div align="center">
