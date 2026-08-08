@@ -232,7 +232,7 @@ But when I speak again...
 | 🚗 Tesla Configurator | [🔮 Live](https://hamiparsa.github.io/Tesla/) |
 | ▶️ YouTube Clone | [🔮 Live](https://lighthearted-tarsier-75bef8.netlify.app/) |
 | 👑 Sexy Arena | [🔮 Live](https://hamiparsa.github.io/Sexy-Arena/) |
-| 🎮 Game Zone | [🔮 Live](https://stellular-salamander-2f94ef.netlify.app/) |
+| 🎮 Game Zone | [🔮 Live](https://hamiparsa.github.io/Game-Zone/) |
 | 🗽 NewYork | [🔮 Live](https://hamiparsa.github.io/NewYork/) |
 | ☀️ Los Angeles | [🔮 Live](https://hamiparsa.github.io/Los-Angeles/) |
 | 🍔 Menu Fast Food | [🔮 Live](https://hamiparsa.github.io/Menu-Fast-Food/) |
