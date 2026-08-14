@@ -320,6 +320,11 @@ But when I speak again...
 </tr>
 </table>
 <br/>
+
+<a href="https://coffeebede.com/hamiparsa">
+  <img class="img-fluid" src="/donate.png" width="400px" />
+</a>
+
 > **☕ Every coffee = Another commit**
   
 ---
