@@ -67,8 +67,14 @@
     <b>HamiParsa</b> — One of the most active developers in Iran's GitHub community
   </blockquote>
   <br/>
-  
-  ### 🌟 National Ranking
+
+  <div align="center">
+    <img src="/fullsize.gif" width="20px"/>
+    🌟 National Ranking
+    <img src="/fullsize.gif" width="20px"/>
+  </div>
+  <br/>
+
   <a href="https://user-badge.committers.top/iran/HamiParsa">
     <img src="https://user-badge.committers.top/iran/HamiParsa.svg" />
   </a>
