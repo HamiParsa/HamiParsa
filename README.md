@@ -329,13 +329,7 @@ But when I speak again...
   
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <div style="background: linear-gradient(135deg, #00D4FF11, #FF004422); padding: 20px; border-radius: 20px; border: 1px solid #00D4FF33;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiParsa&theme=dark&hide_border=true&bg_color=000000&color=F5F5F5&line=262626&point=FFFFFF&area=true&area_color=00D4FF" width="100%" />
-  </div>
-</div>
-  
+
 ## 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
