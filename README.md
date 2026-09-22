@@ -303,10 +303,6 @@ But when I speak again...
 <br/>
 <table align="center" style="border: 1px solid #00FF00;">
 <tr>
-<td align="center">💳 <b>Bank</b></td>
-<td><code>6219-8619-6889-3460</code> (BluBank/Saman)</td>
-</tr>
-<tr>
 <td align="center">₿ <b>Bitcoin</b></td>
 <td><code>bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code></td>
 </tr>
@@ -322,7 +318,8 @@ But when I speak again...
 <br/>
 
 <a href="https://coffeebede.com/hamiparsa">
-  <img class="img-fluid" src="/donate.png" width="400px" />
+  Donate (Iran)
+  <img class="img-fluid" src="https://coffeebede.com/banner.svg?u=hamiparsa&bg=000000&fg=ffffff&sub=ffffff&mbg=c20044&mfg=ffffff&cbg=1a120b&cfg=ffffff&bd=ffffff&size=l&bw=5" width="400px" />
 </a>
 
 > **☕ Every coffee = Another commit**
