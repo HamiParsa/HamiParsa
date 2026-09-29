@@ -1,8 +1,15 @@
 <div align="center">
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=850&color=AE2448&center=true&vCenter=true&width=900&lines=Hami+Parsa+%E2%80%94+Full-Stack+Developer;I+Don't+Just+Write+Code.;I+Build+What+I+Imagine.;Frontend.+Backend.+IoT.;Ideas+In+%E2%86%92+Code+%E2%86%92+Reality.;Still+Building.+Still+Learning.+Still+Hungry." alt="Hami Parsa — Full-Stack Developer" />
+
+</div>
+
+
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=AE2448&center=true&vCenter=true&width=700&lines=PERSONAL+HQ;MY+WORK.+MY+STORY.+MY+WORLD." alt="Personal HQ" />
 
 <br/><br/>
 
@@ -49,6 +56,7 @@ interests & developer journey.
 <img src="https://img.shields.io/badge/EXPLORE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&color=FFFFFF"/>
 </a>
 
+
 <br/><br/>
 
 <sub>
@@ -73,6 +81,8 @@ The person behind the code &nbsp;·&nbsp; The work beyond the code.
 </sub>
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=AE2448&center=true&vCenter=true&width=700&lines=PERSONAL+HQ;MY+WORK.+MY+STORY.+MY+WORLD." alt="Personal HQ" />
+
 </div>
 
 
