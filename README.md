@@ -281,22 +281,6 @@ But when I speak again...
 <div align="center">
 <!-- ====== DONATE ====== -->
 <h2 align="center">💰 Support</h2>
-<br/>
-<table align="center" style="border: 1px solid #00FF00;">
-<tr>
-<td align="center">₿ <b>Bitcoin</b></td>
-<td><code>bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code></td>
-</tr>
-<tr>
-<td align="center">💎 <b>Ethereum</b></td>
-<td><code>0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795</code></td>
-</tr>
-<tr>
-<td align="center">🪙 <b>USDT</b></td>
-<td><code>TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code></td>
-</tr>
-</table>
-<br/>
 Donate (Iran)
 <br/>
 <a href="https://coffeebede.com/hamiparsa">
