@@ -132,74 +132,120 @@ The person behind the code &nbsp;·&nbsp; The work beyond the code.
 
 <div align="left">
   
-## 🧑‍🚀 About Me
+<div align="left">
 
-Hey there! 👋 I'm a **Full-Stack Developer** who turns ideas into living, breathing products.
+## `01` — WHO I AM
 
-From **database design** to the **last pixel**, from **authentication** to **animation** — I own the whole stack. And I'm just getting started.
+I'm **Hami Parsa**, a **Full-Stack Developer** and **IoT Developer** who genuinely enjoys turning ideas into software.
 
-🧠 I don't chase trends. I set the pace. Give me a wild idea, a weird problem, or a broken system — I'll turn it into something that makes people go *"damn"*.
+I like working across the stack — from **interfaces and interactions** to **APIs, authentication, databases, and connected systems**.
+
+I don't want to just use technology.
+
+**I want to understand how things work, build them, break them, and build them better.**
+
+<br/>
 
 ---
 
-## 🚀 What's Cooking
+## `02` — WHAT I BUILD
 
-> **Next-level stuff is in the oven.**  
-> Things that bend the rules. Things that break expectations.
+```text
+INTERFACES        →  React / Next.js / TypeScript
+BACKENDS          →  Node.js / Express / Django
+DATA              →  Supabase / MongoDB / SQL
+SYSTEMS           →  APIs / Authentication / Integration
+IoT               →  Connected Devices / Smart Systems
+```
 
-`⚡ Supercharged Tools` &nbsp; `🎯 Secret Projects` &nbsp; `🧠 New Patterns` &nbsp; `🔥 Something Unexpected`
+I enjoy projects where different pieces have to work together —
+**UI → Logic → Data → System.**
+
+That's where programming gets interesting for me.
+
+<br/>
+
+---
+
+## `03` — HOW I WORK
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### `01`
+
+**CURIOUS**
+
+<sub>
+If I don't understand it,<br/>
+I dig deeper.
+</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+### `02`
+
+**BUILD**
+
+<sub>
+Ideas become projects<br/>
+when you actually ship.
+</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+### `03`
+
+**BREAK**
+
+<sub>
+Bugs are part of<br/>
+figuring things out.
+</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+**IMPROVE**
+
+<sub>
+Make it cleaner.<br/>
+Make it better.
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `04` — BEYOND THE CODE
+
+When I'm away from the keyboard, you'll probably find me listening to music, playing games, exploring new ideas, or thinking about the next thing I can build.
+
+**Programming is more than a skill to me.**
+
+It's the thing that lets me take something that exists only in my head —
+
+**and make it real.**
+
+<br/>
 
 <div align="center">
-  
-  ⏳ **COMING SOON** ⏳
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=AE2448&center=true&vCenter=true&width=700&lines=KEEP+BUILDING.;KEEP+BREAKING.;KEEP+LEARNING.;KEEP+MOVING." alt="Keep Building"/>
 
 </div>
-
----
-
-## 🎯 Current Vibe
-
-> **Full-Stack on the hunt.**  
-> From database to micro-interactions. From serverless to edge.
-
-I don't wait for permission. I just build.
-
----
-
-## 🧬 Code-Soul
-
-| 🔍 Curiosity | 🛠️ Building | 🎯 Precision | 🚀 Shipping | ⚡ Hunger |
-|--------------|-------------|-------------|-------------|-----------|
-| Break to learn | Ship or die | Master details | Move fast | Never full |
-
----
-
-## 🌌 Beyond the Screen
-
-When I'm not architecting full-stack solutions:
-
-- 🎧 Deep coding sessions (synthwave, cinematic, high-energy)
-- ☕ Fueled by coffee and curiosity
-- 💥 Breaking boundaries, not just code
-
----
-
-## 🔮 What's Next?
-
-I'm leveling up in silence right now.
-
-But when I speak again...  
-**You'll hear it.**
-
----
-
-<div align="center">
-
-  *"It doesn't end at Full-Stack.*  
-  *There's so much more to build, so many mountains left to climb.*  
-  ***My journey has only begun.***"
-
-  <br/><br/>
 
 </div>
 
