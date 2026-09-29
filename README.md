@@ -1,51 +1,85 @@
+<div align="center">
 
-
-
-
-
-
-
-<div align="center" id="top">
-  <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" />
-  <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=181717" />
-  <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
-  <br/><br/>
-  
-  [![Open Source - GitHub Developer](https://img.shields.io/badge/Open_Source-GitHub_Developer-AE2448?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
-  <br/><br/>
-  [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-0055DA?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/HamiParsa/README_FA.md)
-</div>
 <br/>
-<div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=700&color=AE2448&center=true&vCenter=true&width=700&lines=Hami+Parsa;Full-Stack+Developer;I+Build.+I+Break.+I+Improve.;Turning+Ideas+Into+Software" alt="Typing SVG" />  
-  
-<div align="center">
-  
-## 🌐 Personal Websites
-<div align="center">
-  <i>Explore my journey, skills, and creative projects</i>
-  <br/><br/>
-  <a href="https://hamiparsa.github.io/About-Me/">
-    <img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <br/>
-  <sub><b>📖 My journey, skills & passions</b></sub>
-  <br/><br/>
-  <a href="https://hamiparsa.github.io/Profile-Bio/">
-    <img src="https://img.shields.io/badge/Projects_Portfolio-AE2448?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <br/>
-  <sub><b>🎯 Case studies & creative work</b></sub>
-  <br/><br/>
-  <div style="background: linear-gradient(90deg, #0EA5E9, #10B981); padding: 6px 20px; border-radius: 20px; display: inline-block;">
-    ✨ <b>Check out both sites to see what I've been building!</b>
-  </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=AE2448&center=true&vCenter=true&width=700&lines=PERSONAL+HQ;MY+WORK.+MY+STORY.+MY+WORLD." alt="Personal HQ" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/01-09090B?style=for-the-badge&labelColor=AE2448&color=09090B"/>
+
+<br/><br/>
+
+# ABOUT ME
+
+<sub>WHO I AM · WHAT I BUILD · WHY I CODE</sub>
+
+<br/><br/>
+
+<a href="https://hamiparsa.github.io/About-Me/">
+<img src="https://img.shields.io/badge/ENTER-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&color=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<sub>
+My story, skills,<br/>
+interests & developer journey.
+</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02-09090B?style=for-the-badge&labelColor=AE2448&color=09090B"/>
+
+<br/><br/>
+
+# PORTFOLIO
+
+<sub>PROJECTS · EXPERIMENTS · CREATIVE WORK</sub>
+
+<br/><br/>
+
+<a href="https://hamiparsa.github.io/Profile-Bio/">
+<img src="https://img.shields.io/badge/EXPLORE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&color=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<sub>
+Selected projects,<br/>
+experiments & live work.
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=AE2448&height=2&width=18%"/>
+
+<br/><br/>
+
+<sub>
+<b>Two sides of the same developer.</b>
+<br/>
+The person behind the code &nbsp;·&nbsp; The work beyond the code.
+</sub>
+
+<br/><br/>
 </div>
 
----
 
-## 🏆 Iran's GitHub Rising Star
+
 <div align="center">
+  
+  ## 🏆 Iran's GitHub Rising Star
   <blockquote>
     <b>HamiParsa</b> — One of the most active developers in Iran's GitHub community
   </blockquote>
