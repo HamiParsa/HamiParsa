@@ -163,30 +163,170 @@ But when I speak again...
 <!-- TECH STACK WITH GLOW EFFECT -->
 <div align="center">
 
-<!-- ====== TECH STACK ====== -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                        TECH STACK                           -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## 💻 Tech Stack
-<br/>
-<!-- ====== GLOW DIVIDER ====== -->
-<div style="background: linear-gradient(90deg, #00E5FF, #FF6B35, #FFD700); height: 2px; border-radius: 10px; width: 50%; margin: 0 auto 15px auto;"></div>
+# ⚡ ENGINEERING STACK
 
-| **🧠 Languages** | **🎨 Frontend** | **⚙️ Backend** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=js,ts,python" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="45"/> | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,django" height="45"/> |
-| `JavaScript` • `TypeScript` • `Python` | `React` • `Next.js` • `Tailwind` • `Zustand` | `Next.js` • `Node.js` • `Express.js` • `Django` |
-
-| **🗄️ Databases** | **☁️ DevOps & Cloud** | **🛠️ Tools & IDEs** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb,sqlite,postgresql" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> <img src="https://skillicons.dev/icons?i=docker" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
-| `MySql` •`Supabase` • `MongoDB` • `SQLite`• `postgresql` | `Git` • `GitHub` • `Vercel` • `Netlify` • `Docker` | `VS Code` • `Postman` • `PyCharm` |
+<sub><b>Tools & technologies I use to build things from database to interface.</b></sub>
 
 <br/>
-<!-- ====== GLOW DIVIDER ====== -->
-<div style="background: linear-gradient(90deg, #FFD700, #FF6B35, #00E5FF); height: 2px; border-radius: 10px; width: 30%; margin: 0 auto;"></div>
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 CORE
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
+
+<br/><br/>
+
+<code>JavaScript</code> <code>TypeScript</code> <code>Python</code>
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ FRONTEND
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
+
+<br/><br/>
+
+<code>React</code> <code>Next.js</code> <code>Tailwind</code> <code>Zustand</code>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧩 BACKEND
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+
+<br/><br/>
+
+<code>Node.js</code> <code>Express</code> <code>Django</code> <code>REST APIs</code>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ DATA
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,supabase&theme=dark" />
+
+<br/><br/>
+
+<code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code> <code>SQLite</code> <code>Supabase</code>
+
+</td>
+
+<td align="center">
+
+### ☁️ DEPLOYMENT
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify&theme=dark" />
+
+<br/><br/>
+
+<code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Vercel</code> <code>Netlify</code>
+
+</td>
+
+<td align="center">
+
+### 🛠️ WORKFLOW
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,pycharm&theme=dark" />
+
+<br/><br/>
+
+<code>VS Code</code> <code>Postman</code> <code>PyCharm</code>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────────────────────────────────────── -->
+
+### 🔗 SYSTEM FLOW
+
+<br/>
+
+`Frontend`
+  →  
+`API`
+  →  
+`Backend`
+  →  
+`Database`
+  →  
+`Deployment`
+
+<br/>
+<br/>
+
+<sub>
+<strong>React / Next.js</strong>
+&nbsp; • &nbsp;
+<strong>Node.js / Express</strong>
+&nbsp; • &nbsp;
+<strong>Supabase / PostgreSQL / MongoDB</strong>
+&nbsp; • &nbsp;
+<strong>Vercel / Docker</strong>
+</sub>
+
+<br/>
+<br/>
+
+<!-- ─────────────────────────────────────────────────────────── -->
+
+### 🚀 CURRENTLY BUILDING
+
+<br/>
+
+`Full-Stack Applications`   `IoT Systems`   `APIs`   `System Integration`
+
+<br/>
+<br/>
+
+<sub>From <b>DB</b> → <b>API</b> → <b>Logic</b> → <b>UI</b></sub>
+
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                     END TECH STACK                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 
 <!-- ====== PROJECTS ====== -->
 <div align="center">
