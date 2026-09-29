@@ -17,30 +17,6 @@
 <div align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=700&color=AE2448&center=true&vCenter=true&width=700&lines=Hami+Parsa;Full-Stack+Developer;I+Build.+I+Break.+I+Improve.;Turning+Ideas+Into+Software" alt="Typing SVG" />  
   
-  ## 📊 GitHub Languages Card
-</div>
-
-<div align="center">
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://github-languages-card.vercel.app/api/top-languages?username=HamiParsa&theme=strawberry" width="800" alt="GitHub Languages Card" />
-  </a>
-  <br/><br/>
-  <blockquote>
-    <b>Transform any GitHub profile into a clean, shareable language analytics card.</b>
-    <br/>
-    Built for README profiles, portfolios, and developer showcases.
-  </blockquote>
-  <br/>
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github-languages-card.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
----
-
 <div align="center">
   
 ## 🌐 Personal Websites
