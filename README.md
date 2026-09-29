@@ -421,18 +421,10 @@ But when I speak again...
 </div>
 
 <div align="center">
-<!-- ====== DONATE ====== -->
-<h2 align="center">💰 Support</h2>
-Donate (Iran)
-<br/>
-<a href="https://coffeebede.com/hamiparsa">
- 
-  <img class="img-fluid" src="https://coffeebede.com/banner.svg?u=hamiparsa&bg=000000&fg=ffffff&sub=ffffff&mbg=c20044&mfg=ffffff&cbg=1a120b&cfg=ffffff&bd=ffffff&size=l&bw=5" width="400px" />
-</a>
-
-> **☕ Every coffee = Another commit**
   
----
+<a href="https://coffeebede.com/hamiparsa">
+<img src="https://coffeebede.com/banner.svg?u=hamiparsa&bg=0D0D0F&fg=FFFFFF&sub=FFFFFF&mbg=AE2448&mfg=FFFFFF&cbg=111113&cfg=FFFFFF&bd=AE2448&size=l&bw=4" width="380px"/>
+</a>
 
 
 ## 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
