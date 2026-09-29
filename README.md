@@ -400,32 +400,41 @@ But when I speak again...
 </div>
 
 ---
-## 🔗 CONNECTION CHANNELS
-<br/>
-<!-- ====== SOCIAL BADGES WITH GLOW ====== -->
-<a href="https://github.com/HamiParsa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
-</a>
-<a href="https://www.linkedin.com/in/HamiParsa">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
-</a>
-<a href="https://hamiparsa.github.io/About-Me/">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
-</a>
-<br/><br/>
-<!-- ====== AVAILABILITY BADGE ====== -->
-<img src="https://img.shields.io/badge/🟢-Available_for_Work-181717?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/💬-Open_to_Collaboration-181717?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/⚡-Reply_in_Seconds-181717?style=for-the-badge&labelColor=0A0A0A" />
-<br/><br/>
-</div>
 
 <div align="center">
-  
+
+# ✦ LET'S CONNECT
+
+<br/>
+
+<a href="https://github.com/HamiParsa">
+<img src="https://img.shields.io/badge/GITHUB-111113?style=for-the-badge&logo=github&logoColor=white&color=AE2448"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hamiparsa">
+<img src="https://img.shields.io/badge/LINKEDIN-111113?style=for-the-badge&logo=linkedin&logoColor=white&color=AE2448"/>
+</a>
+
+<a href="https://hamiparsa.github.io/About-Me/">
+<img src="https://img.shields.io/badge/ABOUT_ME-111113?style=for-the-badge&logo=googlechrome&logoColor=white&color=AE2448"/>
+</a>
+
+<a href="https://hamiparsa.github.io/Profile-Bio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge&logo=vercel&logoColor=white&color=AE2448"/>
+</a>
+
+<br/><br/>
+
 <a href="https://coffeebede.com/hamiparsa">
 <img src="https://coffeebede.com/banner.svg?u=hamiparsa&bg=0D0D0F&fg=FFFFFF&sub=FFFFFF&mbg=AE2448&mfg=FFFFFF&cbg=111113&cfg=FFFFFF&bd=AE2448&size=l&bw=4" width="380px"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+  
 
 ## 👾 COMMIT PAC-MAN - PAC-MAN COMMITS
 <picture>
