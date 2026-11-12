@@ -1,7 +1,6 @@
 <div align="center">
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=850&color=AE2448&center=true&vCenter=true&width=900&lines=Hami+Parsa+%E2%80%94+Full-Stack+Developer;I+Don't+Just+Write+Code.;I+Build+What+I+Imagine.;Frontend.+Backend.+IoT.;Ideas+In+%E2%86%92+Code+%E2%86%92+Reality.;Still+Building.+Still+Learning.+Still+Hungry." alt="Hami Parsa — Full-Stack Developer" />
-
 </div>
 <br/>
 
