@@ -49,7 +49,6 @@ interests & developer journey.
 <img src="https://img.shields.io/badge/EXPLORE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&color=FFFFFF"/>
 </a>
 
-
 <br/><br/>
 
 <sub>
