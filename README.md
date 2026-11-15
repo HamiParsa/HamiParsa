@@ -10,7 +10,6 @@
 <td align="center" width="50%">
 
 <img src="https://img.shields.io/badge/01-09090B?style=for-the-badge&labelColor=AE2448&color=09090B"/>
-
 <br/><br/>
 
 # ABOUT ME
